@@ -1,23 +1,17 @@
 ---
 layout: default
+home: true
 ---
 
-<div class="home">
-
-  <h1 class="page-heading">Selected Papers</h1>
-
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
-</div>
+<h3 class="posts-item-note2" aria-label="Recent Posts">Selected Papers</h3>
+{%- for post in site.posts limit: site.number_of_posts -%}
+{% if post.categories != empty %}
+<article class="post-item">
+  <span hidden itemprop="categories" itemtype="Person">{{ post.categories }}</span>
+  <span class="post-item-date">{{ post.date | date: "%b. %Y" }}</span>
+  <h4 class="post-item-title">
+    <a href="{{ post.url }}">{{ post.title | escape }}</a>
+  </h4>
+  {% endif %}
+</article>
+{%- endfor -%}
