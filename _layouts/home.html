@@ -1,0 +1,17 @@
+---
+layout: default
+home: true
+---
+
+<h3 class="posts-item-note2" aria-label="Recent Posts">Selected Papers</h3>
+{%- for post in site.posts limit: site.number_of_posts -%}
+{% if post.categories != empty %}
+<article class="post-item">
+  <span hidden itemprop="categories" itemtype="Person">{{ post.categories }}</span>
+  <span class="post-item-date">{{ post.date | date: "%b. %Y" }}</span>
+  <h4 class="post-item-title">
+    <a href="{{ post.url }}">{{ post.title | escape }}</a>
+  </h4>
+  {% endif %}
+</article>
+{%- endfor -%}
