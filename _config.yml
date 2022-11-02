@@ -1,0 +1,94 @@
+# Site settings
+title: Jaehyung's Theme # site title
+description: >- # site description
+  He's interesting in Natural Language Processing and Artificial Intelligence. He published more than 30 papers for Computer Science. <br> Meet him <a href="https://github.com/J-Seo" target="_blank" rel="noopener">@github</a>.
+lang: en-US # default lang
+timezone: Asia/Seoul # set your timezone
+image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
+repo: https://github.com/J-Seo/J-Seo.github.io # site repo [optional]
+mode: light # default theme "dark" | "light"
+
+# Profile settings
+author:
+  name: Jaehyung Seo (Jay) # author name
+  bio: >- # tell to the world
+     Hi! I am currently a Ph.D student in the Department of Computer Science and Engineering at Korea University (Advisor: <a href="https://scholar.google.co.kr/citations?user=HMTkz7oAAAAJ&amp;hl=ko&amp;oi=ao">Heuiseok Lim</a>).
+     <br> I am a co-founder and CTO of <a href="http://kunmt.org/">KU-NMT Group</a><br><img src="https://img.shields.io/badge/python-007396?style=flat&logo=python&logoColor=white" /><img src="https://img.shields.io/badge/pytorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" /><img src="https://img.shields.io/badge/pytorch lightning-792EE5?style=flat&logo=pytorch-lightning&logoColor=white" /><img src="https://img.shields.io/badge/tensorflow-FF6F00?style=flat&logo=tensorflow&logoColor=white" /><br><img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=white" /><img src="https://img.shields.io/badge/docker-2496ED?style=flat&logo=docker&logoColor=white" /><img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white" /><img src="https://img.shields.io/badge/mongodb-47A248?style=flat&logo=mongoDB&logoColor=white" /><img src="https://img.shields.io/badge/ruby-CC342D?style=flat&logo=ruby&logoColor=white" /><br><img src="https://img.shields.io/badge/ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" /><img src="https://img.shields.io/badge/CentOS-262577?style=flat&logo=centos&logoColor=white" /><img src="https://img.shields.io/badge/mac-000000?style=flat&logo=macos&logoColor=white" /><img src="https://img.shields.io/badge/windows-0078D6?style=flat&logo=windows&logoColor=white" />
+  username: Jaehyung Seo # general username
+  github: J-Seo # github username
+  twitter: no twitter # twitter username
+  facebook: no facebook # facebook username
+  email: seojae777@korea.ac.kr # email adress
+  avatar: /assets/img/jay_profile.jpg # change with your own avatar
+
+# URL settings
+url: "https://j-seo.github.io" #
+baseurl: ""
+permalink: /:title/
+google_analytics: # leave it blank if not wish
+fb_appid:
+
+# Collection setting
+collections:
+  posts:
+    output: true
+
+# Markdown settings
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  syntax_highlighter: rouge
+
+# Default front matter
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: post
+      comments: false
+
+# Jekyll Compose default front matter
+jekyll_compose:
+  post_default_front_matter:
+    modified:
+    tags: []
+    description:
+  draft_default_front_matter:
+    modified:
+    tags: []
+    description:
+
+# Homepage limit posts
+number_of_posts: 100
+
+# Build settings
+#theme: JaehyungSeo
+sass:
+  style: compressed
+
+include:
+  - _redirects
+  - .htaccess
+
+exclude:
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - CHANGELOG.md
+  - README.md
+  - node_modules
+  - CODE_OF_CONDUCT.md
+  - CONTRIBUTING.md
+  - lighthouse.png
+  - klise-*.gem
+  - klise.gemspec
+
+# Plugins
+plugins_dir:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-postfiles
+
+#remote_theme: piharpi/jekyll-klise
+#theme: jekyll-theme-minimal
