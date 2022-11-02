@@ -1,10 +1,10 @@
 # Site settings
 title: Jaehyung's Theme # site title
 description: >- # site description
-  "It ain't over till it's over"
+  NLP Researcher & AI Research Engineer 
 lang: en-US # default lang
 timezone: Asia/Seoul # set your timezone
-image: /assets/img/jay_profile.jpg # This image used for Open Graph more info https://ogp.me/
+image: /assets/img/thumbnail.PNG # This image used for Open Graph more info https://ogp.me/
 repo: https://github.com/piharpi/jekyll-klise # site repo [optional]
 mode: light # default theme "dark" | "light"
 
