@@ -84,6 +84,7 @@ exclude:
 
 # Plugins
 plugins:
+  - gem 'github-pages', '~> 223'
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-postfiles
