@@ -1,6 +1,5 @@
 # Site settings
 title: Jaehyung's Theme # site title
-remote_theme: mmistakes/minimal-mistakes
 description: >- # site description
   He's interesting in Natural Language Processing and Artificial Intelligence. He published more than 30 papers for Computer Science. <br> Meet him <a href="https://github.com/J-Seo" target="_blank" rel="noopener">@github</a>.
 lang: en-US # default lang
