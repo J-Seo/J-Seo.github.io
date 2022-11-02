@@ -83,7 +83,7 @@ exclude:
   - klise.gemspec
 
 # Plugins
-plugins_dir:
+plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-postfiles
