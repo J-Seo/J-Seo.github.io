@@ -67,6 +67,7 @@ sass:
   style: compressed
 
 include:
+  - Gemfile
   - _redirects
   - .htaccess
 
@@ -84,7 +85,6 @@ exclude:
 
 # Plugins
 plugins:
-  - gem 'github-pages', '~> 223'
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-postfiles
