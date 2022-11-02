@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jaehyung's Theme</title>
+    <description>He's interesting in Natural Language Processing and Artificial Intelligence. He published more than 30 papers for Computer Science. &lt;br&gt; Meet him &lt;a href=&quot;https://github.com/J-Seo&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;@github&lt;/a&gt;.</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 02 Nov 2022 21:09:17 +0900</pubDate>
+    <lastBuildDate>Wed, 02 Nov 2022 21:09:17 +0900</lastBuildDate>
+    <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <title>PU-GEN: Enhancing generative commonsense reasoning for language models with human-centered knowledge (Knowledge-Based Systems 2022)</title>
+        <description>&lt;p&gt;&lt;strong&gt;Knowledge-Based Systems (KBS)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Impact Factor 2022: 8.19&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Authors&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Jaehyung Seo&lt;/strong&gt;, Dongsuk Oh, Sugyeong Eo, Chanjun Park, Kisu Yang, Hyeonseok Moon, Kinam Park, Heuiseok Lim&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Generative commonsense reasoning refers to the ability of a language model to generate a sentence with a given concept-set based on compositional generalization and commonsense reasoning. In the CommonGen challenge, which evaluates the capability of generative commonsense reasoning, language models continue to exhibit low performances and struggle to leverage knowledge representation from humans. Therefore, we propose PU-GEN to leverage human-centered knowledge in language models to enhance compositional generalization and commonsense reasoning considering the human language generation process. To incorporate human-centered knowledge, PU-GEN reinterprets two linguistic philosophies from Wittgenstein: picture theory and use theory. First, we retrieve scene knowledge to reflect picture theory such that a model can describe a general situation as if it were being painted. Second, we extend relational knowledge to consider use theory for understanding various contexts. PU-GEN demonstrates superior performance in qualitative and quantitative evaluations over baseline models in CommonGen and generates convincing evidence for CommonsenseQA. Moreover, it outperforms the state-of-the-art model used in the previous CommonGen challenge.&lt;/p&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;https://doi.org/10.1016/j.knosys.2022.109861&quot;&gt;This Link&lt;/a&gt; for more info on our paper.&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 28 Oct 2022 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000/PUGEN/</link>
+        <guid isPermaLink="true">http://localhost:4000/PUGEN/</guid>
+        
+        
+        <category>outstanding</category>
+        
+      </item>
+    
+      <item>
+        <title>PicTalky: Augmentative and Alternative Communication Software for Language Developmental Disabilities (AACL 2022)</title>
+        <description>&lt;p&gt;&lt;strong&gt;Authors&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Chanjun Park, Yoonna Jang, Seolhwa Lee, &lt;strong&gt;Jaehyung Seo&lt;/strong&gt;, Kisu Yang, Heuiseok Lim&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Augmentative and alternative communication (AAC) is a practical means of communication for people with language disabilities. In this study, we propose PicTalky, which is an AI-based AAC system that helps children with language developmental disabilities to improve their communication skills and language comprehension abilities. PicTalky can process both text and pictograms more accurately by connecting a series of neural-based NLP modules. Moreover, we perform quantitative and qualitative analyses on the essential features of PicTalky. It is expected that those suffering from language problems will be able to express their intentions or desires more easily and improve their quality of life by using this service. We have made the models freely available alongside a demonstration of the Web interface. Furthermore, we implemented robotics AAC for the first time by applying PicTalky to the NAO robot.&lt;/p&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;https://arxiv.org/abs/2109.12941&quot;&gt;This Link&lt;/a&gt; for more info on our paper&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 27 Oct 2022 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000/PicTalky-Augmentative-and-Alternative-Communication-Software-for-Language-Developmental-Disabilities/</link>
+        <guid isPermaLink="true">http://localhost:4000/PicTalky-Augmentative-and-Alternative-Communication-Software-for-Language-Developmental-Disabilities/</guid>
+        
+        
+        <category>outstanding</category>
+        
+      </item>
+    
+      <item>
+        <title>Plain Template Insertion: Korean-Prompt-Based Engineering for Few-Shot Learners (IEEE Access 2022)</title>
+        <description>&lt;p&gt;&lt;strong&gt;IEEE Access&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Impact Factor 2022: 3.47&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Authors&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Jaehyung Seo&lt;/strong&gt;, Hyeonseok Moon, Chanhee Lee, Sugyeong Eo, Chanjun Park, Jihoon Kim, Changwoo Chun, Heuiseok Lim&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Prompt-based learning is a method used for language models to interpret natural language by remembering the prior knowledge acquired and the training objective. Recent prompt-based few-shot learners have achieved superior performance by alleviating the catastrophic forgetting that occurs in pretrained language models. Few-shot learning contributes towards solving the data scarcity problem, an enormous challenge in AI systems and a significant consideration in natural language processing research. In spite of the significance of few-shot learning, research on Korean language-based few-shot learning is insufficient, and whether the prompt-based approach is appropriate for the Korean language has not been thoroughly verified. As a step toward realizing a Korean-prompt-based few-shot learner, we attempt to apply prompt engineering to the Korean language understanding benchmark dataset and introduce plain template insertion to overcome data scarcity in a more practical few-shot setting. The contributions of this study are as follows: (1) presumably, this is the first study to apply prompt-based few-shot learning to Korean benchmark datasets. With 32 few-shot settings, it improves performance by +14.88, +29.04, and +1.81 in the natural language inference, semantic textual similarity, and topic classification tasks. (2) We present prompt engineering, which merely inserts a plain template and increases data efficiency without training example selection, augmentation, reformulation, and retrieval. (3) Our approach is robust to the Korean prompt’s contextual information and sentence structure and is applicable to both hard- and soft-prompt.
+Check out the &lt;a href=&quot;https://doi.org/10.1109/ACCESS.2022.3213027&quot;&gt;This Link&lt;/a&gt; for more info on our paper.&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 10 Oct 2022 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000/Plain-Template-Insertion-Korean-Prompt-Based-Engineering-for-Few-Shot-Learners/</link>
+        <guid isPermaLink="true">http://localhost:4000/Plain-Template-Insertion-Korean-Prompt-Based-Engineering-for-Few-Shot-Learners/</guid>
+        
+        
+        <category>outstanding</category>
+        
+      </item>
+    
+      <item>
+        <title>The ASR Post-Processor Performance Challenges of BackTranScription (BTS): Data-Centric and Model-Centric Approaches (Mathematics 2022)</title>
+        <description>&lt;p&gt;&lt;strong&gt;MDPI Mathematics&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Impact Factor 2022: 2.88&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Authors&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Chanjun Park, &lt;strong&gt;Jaehyung Seo&lt;/strong&gt;, Seolhwa Lee, Chanhee Lee, Heuiseok Lim&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Training an automatic speech recognition (ASR) post-processor based on sequence-to-sequence (S2S) requires a parallel pair (e.g., speech recognition result and human post-edited sentence) to construct the dataset, which demands a great amount of human labor. BackTransScription (BTS) proposes a data-building method to mitigate the limitations of the existing S2S based ASR post-processors, which can automatically generate vast amounts of training datasets, reducing time and cost in data construction. Despite the emergence of this novel approach, the BTS-based ASR post-processor still has research challenges and is mostly untested in diverse approaches. In this study, we highlight these challenges through detailed experiments by analyzing the data-centric approach (i.e., controlling the amount of data without model alteration) and the model-centric approach (i.e., model modification). In other words, we attempt to point out problems with the current trend of research pursuing a model-centric approach and alert against ignoring the importance of the data. Our experiment results show that the data-centric approach outperformed the model-centric approach by +11.69, +17.64, and +19.02 in the F1-score, BLEU, and GLEU tests.&lt;/p&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;https://doi.org/10.3390/math10193618&quot;&gt;This Link&lt;/a&gt; for more info on our paper.&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 02 Oct 2022 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000/The-ASR-Post-Processor-Performance-Challenges-of-BackTranScription-(BTS)-Data-Centric-and-Model-Centric-Approaches/</link>
+        <guid isPermaLink="true">http://localhost:4000/The-ASR-Post-Processor-Performance-Challenges-of-BackTranScription-(BTS)-Data-Centric-and-Model-Centric-Approaches/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Focus on FoCus: Is FoCus focused on Context, Knowledge and Persona? (Customized Chat Grounding Persona and Knowledge Workshop at COLING 2022)</title>
+        <description>&lt;p&gt;&lt;strong&gt;Authors&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;SeungYoon Lee, Jungseob Lee, Chanjun Park, Sugyeong Eo, Hyeonseok Moon, &lt;strong&gt;Jaehyung Seo&lt;/strong&gt;, Jeongbae Park, Heui-Seok Lim&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Rather than continuing the conversation based on personalized or implicit information, the existing conversation system generates dialogue by focusing only on the superficial content. To solve this problem, FoCus was recently released. FoCus is a persona-knowledge grounded dialogue generation dataset that leverages Wikipedia’s knowledge and personal persona, focusing on the landmarks provided by Google, enabling user-centered conversation. However, a closer empirical study is needed since research in the field is still in its early stages. Therefore, we fling two research questions about FoCus.“Is the FoCus whether for conversation or question answering?” to identify the structural problems of the dataset.“Does the FoCus model do real knowledge blending?” to closely demonstrate that the model acquires actual knowledge. As a result of the experiment, we present that the FoCus model could not correctly blend the knowledge according to the input dialogue and that the dataset design is unsuitable for the multi-turn conversation.&lt;/p&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;https://aclanthology.org/2022.ccgpk-1.1&quot;&gt;This Link&lt;/a&gt; for more info on our paper&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 30 Sep 2022 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000/Focus-on-FoCus-Is-FoCus-focused-on-Context,-Knowledge-and-Persona/</link>
+        <guid isPermaLink="true">http://localhost:4000/Focus-on-FoCus-Is-FoCus-focused-on-Context,-Knowledge-and-Persona/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>QUAK: A Synthetic Quality Estimation Dataset for Korean-English Neural Machine Translation (COLING 2022)</title>
+        <description>&lt;p&gt;&lt;strong&gt;Authors&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Sugyeong Eo, Chanjun Park, Hyeonseok Moon, &lt;strong&gt;Jaehyung Seo&lt;/strong&gt;, Gyeongmin Kim, Jungseob Lee, Heuiseok Lim&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;With the recent advance in neural machine translation demonstrating its importance, research on quality estimation (QE) has been steadily progressing. QE aims to automatically predict the quality of machine translation (MT) output without reference sentences. Despite its high utility in the real world, there remain several limitations concerning manual QE data creation: inevitably incurred non-trivial costs due to the need for translation experts, and issues with data scaling and language expansion. To tackle these limitations, we present QUAK, a Korean-English synthetic QE dataset generated in a fully automatic manner. This consists of three sub-QUAK datasets QUAK-M, QUAK-P, and QUAK-H, produced through three strategies that are relatively free from language constraints. Since each strategy requires no human effort, which facilitates scalability, we scale our data up to 1.58M for QUAK-P, H and 6.58M for QUAK-M. As an experiment, we quantitatively analyze word-level QE results in various ways while performing statistical analysis. Moreover, we show that datasets scaled in an efficient way also contribute to performance improvements by observing meaningful performance gains in QUAK-M, P when adding data up to 1.58M.&lt;/p&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;https://aclanthology.org/2022.coling-1.460/&quot;&gt;This Link&lt;/a&gt; for more info on our paper&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 30 Sep 2022 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000/QUAK-A-Synthetic-Quality-Estimation-Dataset-for-Korean-English-Neural-Machine-Translation/</link>
+        <guid isPermaLink="true">http://localhost:4000/QUAK-A-Synthetic-Quality-Estimation-Dataset-for-Korean-English-Neural-Machine-Translation/</guid>
+        
+        
+        <category>outstanding</category>
+        
+      </item>
+    
+      <item>
+        <title>Utilization Strategy of User Engagements in Korean Fake News Detection (IEEE Access 2022)</title>
+        <description>&lt;p&gt;&lt;strong&gt;IEEE Access&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Impact Factor 2022: 3.47&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Authors&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Myunghoon Kang, &lt;strong&gt;Jaehyung Seo&lt;/strong&gt;, Chanjun Park, Heuiseok Lim&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Fake News (disinformation with malicious intent) has emerged as a major social problem. To address this issue, previous studies mainly utilized single information, the news content, to detect fake news. However, using only news content in training is insufficient. Moreover, most studies did not consider the propagation aspect of fake news as a training feature. Thus, in an attempt to incorporate the ability to learn representation based on textual information and social context, this study proposed a fake news detection algorithm that thoroughly utilizes user graph in Korean fake news and dataset construction methods. In addition, a training strategy was proposed for utilizing user graph in Korean fake news detection through comparative and ablation studies. The experimental results showed that K-FANG outperformed the baseline in detecting fake news. Moreover, user engagements were found to be useful for detecting fake news even if the data contained hate speech. Finally, the validity of using stance information by expanding its class and controlling the class imbalance issues was also verified. This study provided useful implications for utilizing user information in fake news detection.&lt;/p&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;https://doi.org/10.1109/ACCESS.2022.3194269&quot;&gt;This Link&lt;/a&gt; for more info on our paper.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 27 Jul 2022 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000/Utilization-Strategy-of-User-Engagements-in-Korean-Fake-News-Detection/</link>
+        <guid isPermaLink="true">http://localhost:4000/Utilization-Strategy-of-User-Engagements-in-Korean-Fake-News-Detection/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>A Dog Is Passing Over The Jet? A Text-Generation Dataset for Korean Commonsense Reasoning and Evaluation (Findings of NAACL 2022)</title>
+        <description>&lt;p&gt;&lt;strong&gt;Authors&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Jaehyung Seo&lt;/strong&gt;, Seounghoon Lee, Chanjun Park, Yoonna Jang, Hyeonseok Moon, Sugyeong Eo, Seonmin Koo, and Heuiseok Lim.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Recent natural language understanding (NLU) research on the Korean language has been vigorously maturing with the advancements of pretrained language models and datasets. However, Korean pretrained language models still struggle to generate a short sentence with a given condition based on compositionality and commonsense reasoning (i.e., generative commonsense reasoning). The two major challenges are inadequate data resources to develop generative commonsense reasoning regarding Korean linguistic features and to evaluate language models which are necessary for natural language generation (NLG). To solve these problems, we propose a text-generation dataset for Korean generative commonsense reasoning and language model evaluation. In this work, a semi-automatic dataset construction approach filters out contents inexplicable to commonsense, ascertains quality, and reduces the cost of building the dataset. We also present an in-depth analysis of the generation results of language models with various evaluation metrics along with human-annotated scores.&lt;/p&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;https://aclanthology.org/2022.findings-naacl.172&quot;&gt;This Link&lt;/a&gt; for more info on our paper. Code and dataset are available in &lt;a href=&quot;https://github.com/J-Seo/Korean-CommonGen&quot;&gt;Here&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 15 Jul 2022 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000/A-Dog-Is-Passing-Over-The-Jet-A-Text-Generation-Dataset-for-Korean-Commonsense-Reasoning-and-Evaluation/</link>
+        <guid isPermaLink="true">http://localhost:4000/A-Dog-Is-Passing-Over-The-Jet-A-Text-Generation-Dataset-for-Korean-Commonsense-Reasoning-and-Evaluation/</guid>
+        
+        
+        <category>outstanding</category>
+        
+      </item>
+    
+      <item>
+        <title>BERTOEIC: Solving TOEIC Problems Using Simple and Efficient Data Augmentation Techniques with Pretrained Transformer Encoders (Applied Sciences 2022)</title>
+        <description>&lt;p&gt;&lt;strong&gt;MDPI Applied Sciences&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Impact Factor 2022: 2.92&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Authors&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Jeongwoo Lee, Hyeonseok Moon, Chanjun Park, &lt;strong&gt;Jaehyung Seo&lt;/strong&gt;, Sugyeong Eo, Heuiseok Lim&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Recent studies have attempted to understand natural language and infer answers. Machine reading comprehension is one of the representatives, and several related datasets have been opened. However, there are few official open datasets for the Test of English for International Communication (TOEIC), which is widely used for evaluating people’s English proficiency, and research for further advancement is not being actively conducted. We consider that the reason why deep learning research for TOEIC is difficult is due to the data scarcity problem, so we therefore propose two data augmentation methods to improve the model in a low resource environment. Considering the attributes of the semantic and grammar problem type in TOEIC, the proposed methods can augment the data similar to the real TOEIC problem by using POS-tagging and Lemmatizing. In addition, we confirmed the importance of understanding semantics and grammar in TOEIC through experiments on each proposed methodology and experiments according to the amount of data. The proposed methods address the data shortage problem of TOEIC and enable an acceptable human-level performance.&lt;/p&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;https://doi.org/10.3390/app12136686&quot;&gt;This Link&lt;/a&gt; for more info on our paper.&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 01 Jul 2022 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000/BERTOEIC-Solving-TOEIC-Problems-Using-Simple-and-Efficient-Data-Augmentation-Techniques-with-Pretrained-Transformer-Encoders/</link>
+        <guid isPermaLink="true">http://localhost:4000/BERTOEIC-Solving-TOEIC-Problems-Using-Simple-and-Efficient-Data-Augmentation-Techniques-with-Pretrained-Transformer-Encoders/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Priming Ancient Korean Neural Machine Translation (LREC 2022)</title>
+        <description>&lt;p&gt;&lt;strong&gt;Authors&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Chanjun Park, Seolhwa Lee, Jaehyung Seo, Hyeonseok Moon, Sugyeong Eo, Heui-Seok Lim&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;In recent years, there has been an increasing need for the restoration and translation of historical languages. In this study, we attempt to translate historical records in ancient Korean language based on neural machine translation (NMT). Inspired by priming, a cognitive science theory that two different stimuli influence each other, we propose novel priming ancient-Korean NMT (AKNMT) using bilingual subword embedding initialization with structural property awareness in the ancient documents. Finally, we obtain state-of-the-art results in the AKNMT task. To the best of our knowledge, we confirm the possibility of developing a human-centric model that incorporates the concepts of cognitive science and analyzes the result from the perspective of interference and cognitive dissonance theory for the first time.&lt;/p&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;https://aclanthology.org/2022.lrec-1.3&quot;&gt;This Link&lt;/a&gt; for more info on our paper&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 15 Jun 2022 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000/Priming-Ancient-Korean-Neural-Machine-Translation/</link>
+        <guid isPermaLink="true">http://localhost:4000/Priming-Ancient-Korean-Neural-Machine-Translation/</guid>
+        
+        
+        <category>outstanding</category>
+        
+      </item>
+    
+  </channel>
+</rss>

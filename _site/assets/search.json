@@ -1,0 +1,339 @@
+[
+  
+    {
+      "title"    : "PU-GEN: Enhancing generative commonsense reasoning for language models with human-centered knowledge (Knowledge-Based Systems 2022)",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/PUGEN/",
+      "date"     : "2022-10-28 00:00:00 +0900"
+    } ,
+  
+    {
+      "title"    : "PicTalky: Augmentative and Alternative Communication Software for Language Developmental Disabilities (AACL 2022)",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/PicTalky-Augmentative-and-Alternative-Communication-Software-for-Language-Developmental-Disabilities/",
+      "date"     : "2022-10-27 00:00:00 +0900"
+    } ,
+  
+    {
+      "title"    : "Plain Template Insertion: Korean-Prompt-Based Engineering for Few-Shot Learners (IEEE Access 2022)",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/Plain-Template-Insertion-Korean-Prompt-Based-Engineering-for-Few-Shot-Learners/",
+      "date"     : "2022-10-10 00:00:00 +0900"
+    } ,
+  
+    {
+      "title"    : "The ASR Post-Processor Performance Challenges of BackTranScription (BTS): Data-Centric and Model-Centric Approaches (Mathematics 2022)",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/The-ASR-Post-Processor-Performance-Challenges-of-BackTranScription-(BTS)-Data-Centric-and-Model-Centric-Approaches/",
+      "date"     : "2022-10-02 00:00:00 +0900"
+    } ,
+  
+    {
+      "title"    : "Focus on FoCus: Is FoCus focused on Context, Knowledge and Persona? (Customized Chat Grounding Persona and Knowledge Workshop at COLING 2022)",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/Focus-on-FoCus-Is-FoCus-focused-on-Context,-Knowledge-and-Persona/",
+      "date"     : "2022-09-30 00:00:00 +0900"
+    } ,
+  
+    {
+      "title"    : "QUAK: A Synthetic Quality Estimation Dataset for Korean-English Neural Machine Translation (COLING 2022)",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/QUAK-A-Synthetic-Quality-Estimation-Dataset-for-Korean-English-Neural-Machine-Translation/",
+      "date"     : "2022-09-30 00:00:00 +0900"
+    } ,
+  
+    {
+      "title"    : "Utilization Strategy of User Engagements in Korean Fake News Detection (IEEE Access 2022)",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/Utilization-Strategy-of-User-Engagements-in-Korean-Fake-News-Detection/",
+      "date"     : "2022-07-27 00:00:00 +0900"
+    } ,
+  
+    {
+      "title"    : "A Dog Is Passing Over The Jet? A Text-Generation Dataset for Korean Commonsense Reasoning and Evaluation (Findings of NAACL 2022)",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/A-Dog-Is-Passing-Over-The-Jet-A-Text-Generation-Dataset-for-Korean-Commonsense-Reasoning-and-Evaluation/",
+      "date"     : "2022-07-15 00:00:00 +0900"
+    } ,
+  
+    {
+      "title"    : "BERTOEIC: Solving TOEIC Problems Using Simple and Efficient Data Augmentation Techniques with Pretrained Transformer Encoders (Applied Sciences 2022)",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/BERTOEIC-Solving-TOEIC-Problems-Using-Simple-and-Efficient-Data-Augmentation-Techniques-with-Pretrained-Transformer-Encoders/",
+      "date"     : "2022-07-01 00:00:00 +0900"
+    } ,
+  
+    {
+      "title"    : "Priming Ancient Korean Neural Machine Translation (LREC 2022)",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/Priming-Ancient-Korean-Neural-Machine-Translation/",
+      "date"     : "2022-06-15 00:00:00 +0900"
+    } ,
+  
+    {
+      "title"    : "Empirical Analysis of Noising Scheme based Synthetic Data Generation for Automatic Post-editing (LREC 2022)",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/LREC-Empirical-Analysis-of-Noising-Scheme-based-Synthetic-Data-Generation-for-Automatic-Post-editing/",
+      "date"     : "2022-06-15 00:00:00 +0900"
+    } ,
+  
+    {
+      "title"    : "Empirical Analysis of Parallel Corpora and In-Depth Analysis Using LIWC (Applied Sciences 2022)",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/Empirical-Analysis-of-Parallel-Corpora-and-In-Depth-Analysis-Using-LIWC/",
+      "date"     : "2022-05-30 00:00:00 +0900"
+    } ,
+  
+    {
+      "title"    : "Return on Advertising Spend Prediction with Task Decomposition-Based LSTM Model (Mathematics 2022)",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/Return-on-Advertising-Spend-Prediction-with-Task-Decomposition-Based-LSTM-Model/",
+      "date"     : "2022-05-11 00:00:00 +0900"
+    } ,
+  
+    {
+      "title"    : "Dense-to-Question and Sparse-to-Answer: Hybrid Retriever System for Industrial Frequently Asked Questions (Mathematics 2022)",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/Dense-to-Question-and-Sparse-to-Answer-Hybrid-Retriever-System-for-Industrial-Frequently-Asked-Questions/",
+      "date"     : "2022-05-09 00:00:00 +0900"
+    } ,
+  
+    {
+      "title"    : "Word-Level Quality Estimation for Korean-English Neural Machine Translation (IEEE Access 2022)",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/Word-Level-Quality-Estimation-for-Korean-English-Neural-Machine-Translation/",
+      "date"     : "2022-04-21 00:00:00 +0900"
+    } ,
+  
+    {
+      "title"    : "Policy-based performance comparison study of Real-time Simultaneous Translation (KCS 2022)",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/Policy-based-performance-comparison-study-of-Real-time-Simultaneous-Translation/",
+      "date"     : "2022-03-28 00:00:00 +0900"
+    } ,
+  
+    {
+      "title"    : "Error Analysis of Recent Conversational Agent-based Commercialization Education Platform (KCS 2022)",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/Error-Analysis-of-Recent-Conversational-Agent-based-Commercialization-Education-Platform/",
+      "date"     : "2022-03-28 00:00:00 +0900"
+    } ,
+  
+    {
+      "title"    : "A study on Korean multi-turn response generation using generative and retrieval model (KCS 2022)",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/A-study-on-Korean-multi-turn-response-generation-using-generative-and-retrieval-model/",
+      "date"     : "2022-03-28 00:00:00 +0900"
+    } ,
+  
+    {
+      "title"    : "An Automatic Post Editing With Efficient and Simple Data Generation Method (IEEE Access 2022)",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/An-Automatic-Post-Editing-With-Efficient-and-Simple-Data-Generation-Method/",
+      "date"     : "2022-02-15 00:00:00 +0900"
+    } ,
+  
+    {
+      "title"    : "Study on Zero-shot based Quality Estimation (KCS 2021)",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/Study-on-Zero-shot-based-Quality-Estimation/",
+      "date"     : "2021-11-28 00:00:00 +0900"
+    } ,
+  
+    {
+      "title"    : "Study on Decoding Strategies in Neural Machine Translation (KCS 2021)",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/Study-on-Decoding-Strategies-in-Neural-Machine-Translation/",
+      "date"     : "2021-11-28 00:00:00 +0900"
+    } ,
+  
+    {
+      "title"    : "A Study on Verification of Back TranScription(BTS)-based Data Construction (KCS 2021)",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/A-Study-on-Verification-of-Back-TranScription(BTS)-based-Data-Construction/",
+      "date"     : "2021-11-28 00:00:00 +0900"
+    } ,
+  
+    {
+      "title"    : "Recent Automatic Post Editing Research (KCS 2021)",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/Recent-Automatic-Post-Editing-Research/",
+      "date"     : "2021-11-28 00:00:00 +0900"
+    } ,
+  
+    {
+      "title"    : "A New Tool for Efficiently Generating Quality Estimation Datasets (Data-centric AI Workshop at NeurlPS 2021)",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/A-New-Tool-for-Efficiently-Generating-Quality-Estimation-Datasets/",
+      "date"     : "2021-11-01 00:00:00 +0900"
+    } ,
+  
+    {
+      "title"    : "How should human translation coexist with NMT? Efficient tool for building high quality parallel corpus (Data-centric AI Workshop at NeurlPS 2021)",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/How-should-human-translation-coexist-with-NMT-Efficient-tool-for-building-high-quality-parallel-corpus/",
+      "date"     : "2021-10-30 00:00:00 +0900"
+    } ,
+  
+    {
+      "title"    : "Automatic Knowledge Augmentation for Generative Commonsense Reasoning (Data-centric AI Workshop at NeurlPS 2021)",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/Automatic-Knowledge-Augmentation-for-Generative-Commonsense-Reasoning/",
+      "date"     : "2021-10-30 00:00:00 +0900"
+    } ,
+  
+    {
+      "title"    : "The Verification of the Transfer Learning-based Automatic Post Editing Model (KCS 2021)",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/The-verification-of-the-transfer-learning-based-automatic-post-editing-model/",
+      "date"     : "2021-10-28 00:00:00 +0900"
+    } ,
+  
+    {
+      "title"    : "Grounded Vocabulary for Image Retrieval Using a Modified Multi-Generator Generative Adversarial Network (IEEE Access 2021)",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/Grounded-Vocabulary-for-Image-Retrieval-Using-a-Modified-Multi-Generator-Generative-Adversarial-Network/",
+      "date"     : "2021-10-25 00:00:00 +0900"
+    } ,
+  
+    {
+      "title"    : "Word-level Korean-English quality estimation (HCLT 2021)",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/Word-level-Korean-English-quality-estimation/",
+      "date"     : "2021-10-14 00:00:00 +0900"
+    } ,
+  
+    {
+      "title"    : "Reading Comprehension requiring Discrete Reasoning Over Paragraphs for Korean (HCLT 2021)",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/Reading-Comprehension-requiring-Discrete-Reasoning-Over-Paragraphs-for-Korean/",
+      "date"     : "2021-10-14 00:00:00 +0900"
+    } ,
+  
+    {
+      "title"    : "Persona-based Korean Conversational Model (HCLT 2021)",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/Persona-based-Korean-Conversational-Model/",
+      "date"     : "2021-10-14 00:00:00 +0900"
+    } ,
+  
+    {
+      "title"    : "Korean Fake News Detection with User Graph (HCLT 2021)",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/Korean-Fake-News-Detection-with-User-Graph/",
+      "date"     : "2021-10-14 00:00:00 +0900"
+    } ,
+  
+    {
+      "title"    : "[Best Paper Awards] KommonGen: A Dataset for Korean Generative Commonsense Reasoning Evaluation (HCLT 2021)",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/KommonGen-A-Dataset-for-Korean-Generative-Commonsense-Reasoning-Evaluation/",
+      "date"     : "2021-10-14 00:00:00 +0900"
+    } ,
+  
+    {
+      "title"    : "Graph-to-Text Generation Using Relation Extraction Datasets (HCLT 2021)",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/Graph-to-Text-Generation-Using-Relation-Extraction-Datasets/",
+      "date"     : "2021-10-14 00:00:00 +0900"
+    } ,
+  
+    {
+      "title"    : "Comparative study of Korean speech recognition based on SpecAugment and Kaldi (HCLT 2021)",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/Comparative-study-of-Korean-speech-recognition-based-on-SpecAugment-and-Kaldi/",
+      "date"     : "2021-10-14 00:00:00 +0900"
+    } ,
+  
+    {
+      "title"    : "[Best Paper Awards] Categorization and Analysis of Error Types in the Korean Speech Recognition System (HCLT 2021)",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/Categorization-and-Analysis-of-Error-Types-in-the-Korean-Speech-Recognition-System/",
+      "date"     : "2021-10-14 00:00:00 +0900"
+    } ,
+  
+    {
+      "title"    : "BackTranScription (BTS)-based Jeju Automatic Speech Recognition Post-processor Research (HCLT 2021)",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/BackTranScription-(BTS)-based-Jeju-Automatic-Speech-Recognition-Post-processor-Research/",
+      "date"     : "2021-10-14 00:00:00 +0900"
+    } ,
+  
+    {
+      "title"    : "An empirical study on automatic post editing for neural machine translation (IEEE Access 2021)",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/An-empirical-study-on-automatic-post-editing-for-neural-machine-translation/",
+      "date"     : "2021-09-03 00:00:00 +0900"
+    } ,
+  
+    {
+      "title"    : "Automatic Knowledge Augmentation for Generative Commonsense Reasoning (LoResMT2021)",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/Dealing-with-the-paradox-of-quality-estimation/",
+      "date"     : "2021-08-01 00:00:00 +0900"
+    } ,
+  
+    {
+      "title"    : "BTS: Back TranScription for Speech-to-Text Post-Processor using Text-to-Speech-to-Text (WAT2021)",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/BTS-Back-TranScription-for-Speech-to-Text-Post-Processor-using-Text-to-Speech-to-Text/",
+      "date"     : "2021-08-01 00:00:00 +0900"
+    } ,
+  
+    {
+      "title"    : "Research on Recent Quality Estimation (DC 2021)",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/Research-on-Recent-Quality-Estimation/",
+      "date"     : "2021-07-28 00:00:00 +0900"
+    } ,
+  
+    {
+      "title"    : "Comparative analysis of current approaches to quality estimation for neural machine translation (Applied Sciences 2021)",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/Comparative-analysis-of-current-approaches-to-quality-estimation-for-neural-machine-translation/",
+      "date"     : "2021-07-17 00:00:00 +0900"
+    } 
+  
+]
