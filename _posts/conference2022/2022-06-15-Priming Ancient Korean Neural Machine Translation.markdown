@@ -7,7 +7,7 @@ categories: outstanding
 ---
 
 **Authors**
-- Chanjun Park, Seolhwa Lee, Jaehyung Seo, Hyeonseok Moon, Sugyeong Eo, Heui-Seok Lim
+- Chanjun Park, Seolhwa Lee, **Jaehyung Seo**, Hyeonseok Moon, Sugyeong Eo, Heui-Seok Lim
 
 **Abstract**
 
