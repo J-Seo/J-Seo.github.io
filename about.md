@@ -2,7 +2,7 @@
 
 ### Research Interest 😆
 
-<span style='background-color:#ffdce0'><b><span style='color:black'>Natural Language Processing, Commonsense Reasoning, Generation, Information Retrieval</span></b></span>
+<span style='background-color:#ffdce0'><b><span style='color:black'>Natural Language Processing, Commonsense Reasoning, Generation, Language Resource & Evaluation</span></b></span>
 
 ### Education 🎓
 **2024 Ph.D candidate** in **Computer Science at Korea University**, South Korea <br>
@@ -57,12 +57,23 @@
 <span style='background-color:#c0c8ff'><b><span style='color:black'>ACL 2023</span></b></span>
 
 ### Selected Projects 🌌
-
 <span style='background-color:#d2b8ff'><b><span style='color:black'>Next-Generation AI Technology Development - Hallucination</span></b></span>
 <div style="text-align: right"><span style='color:#808080'>Jan. 2024 - </span></div>
 - **Project Manager at Korea University**
 - Supported by <b><span style='color:red'>IITP</span></b>
 - Skills: Large language model, Hallucination detection/mitigation
+
+<span style='background-color:#d2b8ff'><b><span style='color:black'>Large Language Modeling for Special Technical Documents</span></b></span>
+<div style="text-align: right"><span style='color:#808080'>Dec. 2023 - </span></div>
+- **Researcher at Korea University**
+- Supported by <b><span style='color:red'>GAON</span></b>
+- Skills: Large language modeling, RAG
+
+<span style='background-color:#d2b8ff'><b><span style='color:black'>Open Ko-LLM Leaderboard</span></b></span>
+<div style="text-align: right"><span style='color:#808080'>Sep. 2023 - </span></div>
+- **Ko-CommonGen V2 (provided by Korea University NLP&AI Lab, created from scratch)**
+- Supported by <b><span style='color:red'>Upstage</span></b>
+- Skills: Large language model, Commonsense Reasoning, Evaluation
 
 <span style='background-color:#d2b8ff'><b><span style='color:black'>UI/UX Artificial Intelligence Service Development</span></b></span>
 <div style="text-align: right"><span style='color:#808080'>June. 2023 - Feb. 2024</span></div>
