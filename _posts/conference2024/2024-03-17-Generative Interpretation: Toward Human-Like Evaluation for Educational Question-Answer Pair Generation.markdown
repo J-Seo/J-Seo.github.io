@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Generative Interpretation: Toward Human-Like Evaluation for Educational Question-Answer Pair Generation (EACL-findings 2024)"
-date: 2024-03-17
+date: 2024-02-20
 Journal: EACL 2024
 categories: outstanding
 ---
