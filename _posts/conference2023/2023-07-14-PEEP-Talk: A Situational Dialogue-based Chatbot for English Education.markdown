@@ -1,19 +1,19 @@
 ---
 layout: post
-title: "Self-Improving-Leaderboard (SIL): A Call for Real-World Centric Natural Language Processing Leaderboards (AACL 2022)"
-date: 2022-10-27
-Journal: AACL 2022
+title: "PEEP-Talk: A Situational Dialogue-based Chatbot for English Education (ACL 2023)"
+date: 2023-07-14
+conference: ACL 2023(Volume 3: System Demonstrations)
 categories: outstanding
 ---
 
 **Authors**
-- Chanjun Park, Yoonna Jang, Seolhwa Lee, **Jaehyung Seo**, Kisu Yang, Heuiseok Lim
+- Seungjun Lee, Yoonna Jang, Chanjun Park, Jungseob Lee, **Jaehyung Seo**, Hyeonseok Moon, Sugyeong Eo, Seounghoon Lee, Bernardo Yahya, Heui-Seok Lim
 
 **Abstract**
 
-Augmentative and alternative communication (AAC) is a practical means of communication for people with language disabilities. In this study, we propose PicTalky, which is an AI-based AAC system that helps children with language developmental disabilities to improve their communication skills and language comprehension abilities. PicTalky can process both text and pictograms more accurately by connecting a series of neural-based NLP modules. Moreover, we perform quantitative and qualitative analyses on the essential features of PicTalky. It is expected that those suffering from language problems will be able to express their intentions or desires more easily and improve their quality of life by using this service. We have made the models freely available alongside a demonstration of the Web interface. Furthermore, we implemented robotics AAC for the first time by applying PicTalky to the NAO robot.
+English is acknowledged worldwide as a mode of communication. However, due to the absence of realistic practicing scenarios, students learning English as a foreign language (EFL) typically have limited chances to converse and share feedback with others. In this paper, we propose PEEP-Talk, a real-world situational dialogue-based chatbot designed for English education. It also naturally switches to a new topic or situation in response to out-of-topic utterances, which are common among English beginners. Furthermore, PEEP-Talk provides feedback score on conversation and grammar error correction. We performed automatic and user evaluations to validate performance and education efficiency of our system. The results show that PEEP-Talk generates appropriate responses in various real-life situations while providing accurate feedback to learners. Moreover, we demonstrate a positive impact on English-speaking, grammar, and English learning anxiety, implying that PEEP-Talk can lower the barrier to learning natural conversation in effective ways.
 
 Check out the [This Link][DOI] for more info on our paper
 
-[DOI]: https://arxiv.org/abs/2109.12941
+[DOI]: https://aclanthology.org/2023.acl-demo.18.pdf
 
