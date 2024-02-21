@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "KNOTICED: Augmentative and Alternative Communication Software for Language Developmental Disabilities (LREC-COLING 2024)"
-date: 2024-20-20
+date: 2024-05-20
 Journal: LREC-COLING 2024
 categories: outstanding
 ---
