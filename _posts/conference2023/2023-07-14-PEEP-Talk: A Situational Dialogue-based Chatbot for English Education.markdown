@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PicTalky: Augmentative and Alternative Communication Software for Language Developmental Disabilities (AACL 2022)"
+title: "Self-Improving-Leaderboard (SIL): A Call for Real-World Centric Natural Language Processing Leaderboards (AACL 2022)"
 date: 2022-10-27
 Journal: AACL 2022
 categories: outstanding
