@@ -2,7 +2,7 @@
 layout: post
 title: "PEEP-Talk: A Situational Dialogue-based Chatbot for English Education (ACL 2023)"
 date: 2023-07-14
-Journal: ACL 2023(Volume 3: System Demonstrations)
+Journal: ACL 2023
 categories: outstanding
 ---
 
