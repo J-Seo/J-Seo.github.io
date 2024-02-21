@@ -3,6 +3,7 @@ layout: post
 title: "Doubts on the reliability of parallel corpus filtering (Expert Systems with Applications 2023)"
 date: 2023-12-15
 Journal: Expert Systems with Applications 2023
+categories: outstanding
 ---
 
 **Authors**
