@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Leveraging Pre-existing Resources for Data-Efficient Counter-Narrative Generation in Korean (LREC-COLING 2024)"
-date: 2024-05-20
+date: 2024-02-20
 Journal: LREC-COLING 2024
 categories: outstanding
 ---
