@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hyper-BTS Dataset: Scalability and Enhanced Analysis of Back TranScription (BTS) for ASR Post-Processing (EACL-findings 2024)"
-date: 2024-03-17
+date: 2024-02-20
 Journal: EACL 2024
 categories: outstanding
 ---
