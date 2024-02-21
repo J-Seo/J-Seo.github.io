@@ -5,11 +5,17 @@
 <span style='background-color:#ffdce0'><b><span style='color:black'>Natural Language Processing, Commonsense Reasoning, Generation, Information Retrieval</span></b></span>
 
 ### Education 🎓
-**2022 Ph.D student** in **Computer Science at Korea University**, South Korea <br>
+**2024 Ph.D candidate** in **Computer Science at Korea University**, South Korea <br>
 **2020 B.A Degree** in **Business School at Korea University**, South Korea <br> 
 **2020 B.A Degree** in **English Language and Literature at Korea University**, South Korea <br>
 
 ### Awards 🏆
+
+<span style='background-color:#F7DDBE'><b><span style='color:black'>Best Paper Award 2023</span></b></span>
+- The 35rd Annual Conference on Human & Cognitive Language Technology (HCLT2023): *Language Resource and Information Retrieval Section*
+
+<span style='background-color:#F7DDBE'><b><span style='color:black'>NAVER PH.D Fellowship Award 2022</span></b></span>
+- NAVER selects doctoral students who have published excellent papers as the first author in world top-tier conferences or journals with outstanding presentation achievements and awards them scholarships.
 
 <span style='background-color:#F7DDBE'><b><span style='color:black'>1st place in WMT 2022 (Quality Estimation - Critical Error Detection) at EMNLP 2022</span></b></span>
 - *Sugyeong Eo, Chanjun Park, Hyeonseok Moon, **Jaehyung Seo***
@@ -26,8 +32,11 @@
 
 ### Teaching Experience 🐯
 
-<span style='background-color:#fff5b1'><b><span style='color:black'>Korea University</span></b></span>
+<span style='background-color:#fff5b1'><b><span style='color:black'>Invitied Speaker</span></b></span>
+- **Jun. 2023** Introduction to Natural Language Processing and Commonsense Reasoning at Dongguk University <br>
 
+<span style='background-color:#fff5b1'><b><span style='color:black'>Korea University</span></b></span>
+- **Mar - Jun. 2023** TA for NLP for Artificial Intelligence (DFE615-00) <br>
 - **Sep - Dec. 2022** TA for NLP for digital finance engineering (DFE601-00) <br>
 - **Mar - Jun. 2022** TA for Introduction to information retrieval in big data (BDC103-00) <br>
 - **Sep - Dec. 2021** RA for NLP for digital finance engineering (DFE601-00) <br>
@@ -38,55 +47,86 @@
 
 <span style='background-color:#fff5b1'><b><span style='color:black'>DataDiving</span></b></span>
 - **Jul - Dec. 2020** Invited Instructor <br>
-- **Mar - Jun. 2022** Lecture Producer <br>
+- **Mar - Jun. 2022** Lecture Producer <be>
+
+### Review Experience :star2:
+
+<span style='background-color:#c0c8ff'><b><span style='color:black'>ACL ARR 2024 February</span></b></span>
+<span style='background-color:#c0c8ff'><b><span style='color:black'>ACL ARR 2023 December</span></b></span>
+<span style='background-color:#c0c8ff'><b><span style='color:black'>EMNLP 2023/ACL ARR 2023 October</span></b></span>
+<span style='background-color:#c0c8ff'><b><span style='color:black'>ACL 2023</span></b></span>
 
 ### Selected Projects 🌌
 
-<span style='background-color:#f5f0ff'><b><span style='color:black'>Data Augmentation with Language Generation Research</span></b></span>
+<span style='background-color:#d2b8ff'><b><span style='color:black'>Next-Generation AI Technology Development - Hallucination</span></b></span>
+<div style="text-align: right"><span style='color:#808080'>Jan. 2024 - </span></div>
+- **Project Manager at Korea University**
+- Supported by <b><span style='color:red'>IITP</span></b>
+- Skills: Large language model, Hallucination detection/mitigation
+
+<span style='background-color:#d2b8ff'><b><span style='color:black'>UI/UX Artificial Intelligence Service Development</span></b></span>
+<div style="text-align: right"><span style='color:#808080'>June. 2023 - Feb. 2024</span></div>
+- **Researcher at Korea University**
+- Supported by <b><span style='color:red'>Samsung Fire & Marine Insurance</span></b>
+- Skills: Natural language generation, Large language modeling, App application
+
+<span style='background-color:#d2b8ff'><b><span style='color:black'>R&D Voucher: AI Contact Center</span></b></span>
+<div style="text-align: right"><span style='color:#808080'>June. 2022 - May. 2023</span></div>
+- **Researcher at Korea University**
+- Supported by <b><span style='color:red'>O2O</span></b>
+- Skills: Natural language processing
+
+<span style='background-color:#d2b8ff'><b><span style='color:black'>Industry-Academia-Government Collaboration R&D: AI Interviewing</span></b></span>
+<div style="text-align: right"><span style='color:#808080'>June. 2022 - May. 2023</span></div>
+- **Researcher at Korea University**
+- Supported by <b><span style='color:red'>Withmind</span></b>
+- Skills: Natural language processing
+
+<span style='background-color:#d2b8ff'><b><span style='color:black'>Data Augmentation with Language Generation Research</span></b></span>
 <div style="text-align: right"><span style='color:#808080'>May. 2022 - April. 2023</span></div>
-- **Project manager in Korea University**
+- **Project manager at Korea University**
 - Supported by <b><span style='color:red'>SAMSUNG RESEARCH</span></b>
 - Skills: Data augmentation, Natural language generation
 
-<span style='background-color:#f5f0ff'><b><span style='color:black'>NAVER PAPAGO - Parallel Corpus Filtering and Mining</span></b></span>
+<span style='background-color:#d2b8ff'><b><span style='color:black'>NAVER PAPAGO - Parallel Corpus Filtering and Mining</span></b></span>
 <div style="text-align: right"><span style='color:#808080'>December. 2021 - June. 2022</span></div>
-- **Researcher in Korea University**
+- **Researcher at Korea University**
 - Supported by <b><span style='color:red'>NAVER PAPAGO</span></b>
 - Skills: Neural Machine Translation, Parallel corpus filtering
 
-<span style='background-color:#f5f0ff'><b><span style='color:black'>Korean-Prompt-based Engineering for Few-shot Research</span></b></span>
+<span style='background-color:#d2b8ff'><b><span style='color:black'>Korean-Prompt-based Engineering for Few-shot Research</span></b></span>
 <div style="text-align: right"><span style='color:#808080'>March. 2021 - April. 2022</span></div>
-- **Project manager in Korea University**
+- **Project manager at Korea University**
 - Supported by <b><span style='color:red'>HYUNDAI MOTORS</span></b>
 - Skills: Prompted-based learning, Few-shot, Natural language understanding
 
-<span style='background-color:#f5f0ff'><b><span style='color:black'>Return on Advertising Spend (ROAS) Prediction Research</span></b></span>
+<span style='background-color:#d2b8ff'><b><span style='color:black'>Return on Advertising Spend (ROAS) Prediction Research</span></b></span>
 <div style="text-align: right"><span style='color:#808080'>December. 2021 - March. 2022</span></div>
-- **Project manager in Korea University**
+- **Project manager at Korea University**
 - Supported by <b><span style='color:red'>Data Voucher</span></b>
 - Skills: ROAS, Regression
 
-<span style='background-color:#f5f0ff'><b><span style='color:black'>Hybrid Retriever System for Industrial Frequently Asked Questions Research</span></b></span>
+<span style='background-color:#d2b8ff'><b><span style='color:black'>Hybrid Retriever System for Industrial Frequently Asked Questions Research</span></b></span>
 <div style="text-align: right"><span style='color:#808080'>December. 2021 - March. 2022</span></div>
 - **Researcher in Korea University**
 - Supported by <b><span style='color:red'>Data Voucher</span></b>
 - Skills: Information Retrieval, Natural language understanding
 
-<span style='background-color:#f5f0ff'><b><span style='color:black'>Korean Multi-turn Response Chat-bot Research</span></b></span>
+<span style='background-color:#d2b8ff'><b><span style='color:black'>Korean Multi-turn Response Chat-bot Research</span></b></span>
 <div style="text-align: right"><span style='color:#808080'>May. 2021 - January. 2022</span></div>
-- **Project manager in Korea University**
+- **Project manager at Korea University**
 - Supported by <b><span style='color:red'>SAMSUNG SDS</span></b>
 - Skills: Dialogue System, Natural language generation
 
-<span style='background-color:#f5f0ff'><b><span style='color:black'>A Study on the Improvement of Understanding of Korean-based Generative Models</span></b></span>
+<span style='background-color:#d2b8ff'><b><span style='color:black'>A Study on the Improvement of Understanding of Korean-based Generative Models</span></b></span>
 <div style="text-align: right"><span style='color:#808080'>July. 2020 - March. 2021</span></div>
-- **Researcher in Korea University**
+- **Researcher at Korea University**
 - Supported by <b><span style='color:red'>National Security Research Institute</span></b>
 - Skills: Language Modeling, Natural language generation
 
-<span style='background-color:#f5f0ff'><b><span style='color:black'>News Recommendation System with Pre-trained Language Model</span></b></span>
+<span style='background-color:#d2b8ff'><b><span style='color:black'>News Recommendation System with Pre-trained Language Model</span></b></span>
 <div style="text-align: right"><span style='color:#808080'>July. 2020 - January. 2021</span></div>
-- **Researcher in Korea University**
+- **Researcher at Korea University**
 - Supported by <b><span style='color:red'>Data Voucher</span></b>
 - Skills: Semi-supervised Learning, Natural language understanding
 
