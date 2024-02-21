@@ -3,7 +3,6 @@ layout: post
 title: "Automatic Knowledge Augmentation for Generative Commonsense Reasoning (Data-centric AI Workshop at NeurlPS 2021)"
 date: 2021-10-30
 Conference: Data-centric AI workshop at NeurIPS 2021
-categories: outstanding
 ---
 **Authors**
 - **Jaehyung Seo**, Chanjun Park, Sugyeong Eo, Hyeonseok Moon, Heuiseok Lim
