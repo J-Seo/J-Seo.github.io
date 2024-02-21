@@ -1,19 +1,18 @@
 ---
 layout: post
-title: "PEEP-Talk: A Situational Dialogue-based Chatbot for English Education (ACL 2023)"
-date: 2023-07-14
-Journal: ACL 2023
+title: "CReTIHC: Designing Causal Reasoning Tasks about Temporal Interventions and Hallucinated Confoundings (EMNLP-findings 2023)"
+date: 2023-12-06
+Journal: EMNLP 2023
 categories: outstanding
 ---
 
 **Authors**
-- Seungjun Lee, Yoonna Jang, Chanjun Park, Jungseob Lee, **Jaehyung Seo**, Hyeonseok Moon, Sugyeong Eo, Seounghoon Lee, Bernardo Yahya, Heui-Seok Lim
+- Changwoo Chun, SongEun Lee, **Jaehyung Seo**, Heui-Seok Lim
 
 **Abstract**
 
-English is acknowledged worldwide as a mode of communication. However, due to the absence of realistic practicing scenarios, students learning English as a foreign language (EFL) typically have limited chances to converse and share feedback with others. In this paper, we propose PEEP-Talk, a real-world situational dialogue-based chatbot designed for English education. It also naturally switches to a new topic or situation in response to out-of-topic utterances, which are common among English beginners. Furthermore, PEEP-Talk provides feedback score on conversation and grammar error correction. We performed automatic and user evaluations to validate performance and education efficiency of our system. The results show that PEEP-Talk generates appropriate responses in various real-life situations while providing accurate feedback to learners. Moreover, we demonstrate a positive impact on English-speaking, grammar, and English learning anxiety, implying that PEEP-Talk can lower the barrier to learning natural conversation in effective ways.
-
+Large language models (LLMs) have demonstrated impressive capabilities in natural language processing. However, their ability to establish causal relationships, particularly in the context of temporal interventions and language hallucinations, remains challenging. This paper presents CReTIHC, a novel dataset designed to test and enhance the causal reasoning abilities of LLMs. The dataset is constructed using a unique approach that incorporates elements of verbal hallucinations and temporal interventions through the reengineering of existing causal inference datasets. This transformation creates complex scenarios that push LLMs to critically evaluate the information presented and identify cause-and-effect relationships. The CReTIHC dataset serves as a pioneering tool for improving LLM’s causal inference capabilities, paving the way for a more nuanced understanding of causal relationships in natural language processing (NLP) tasks. The whole dataset is publicly accessible at:(https://github. com/ChangwooChun/CReTIHC)
 Check out the [This Link][DOI] for more info on our paper
 
-[DOI]: https://aclanthology.org/2023.acl-demo.18.pdf
+[DOI]: https://aclanthology.org/2023.findings-emnlp.693.pdf
 
