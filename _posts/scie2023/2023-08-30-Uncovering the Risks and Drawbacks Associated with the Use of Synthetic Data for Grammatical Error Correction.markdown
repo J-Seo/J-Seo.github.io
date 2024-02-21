@@ -14,5 +14,5 @@ In a Data-Centric AI paradigm, the model performance is enhanced without alterin
 
 Check out the [This Link][DOI] for more info on our paper
 
-[DOI]: 10.1109/ACCESS.2023.3310257
+[DOI]: https://ieeexplore.ieee.org/document/10234394
 
