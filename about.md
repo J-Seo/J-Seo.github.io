@@ -49,11 +49,14 @@
 - **Jul - Dec. 2020** Invited Instructor <br>
 - **Mar - Jun. 2022** Lecture Producer <be>
 
-### Review Experience :star2:
+### Review Experience 😺
 
 <span style='background-color:#c0c8ff'><b><span style='color:black'>ACL ARR 2024 February</span></b></span>
+
 <span style='background-color:#c0c8ff'><b><span style='color:black'>ACL ARR 2023 December</span></b></span>
+
 <span style='background-color:#c0c8ff'><b><span style='color:black'>EMNLP 2023/ACL ARR 2023 October</span></b></span>
+
 <span style='background-color:#c0c8ff'><b><span style='color:black'>ACL 2023</span></b></span>
 
 ### Selected Projects 🌌
