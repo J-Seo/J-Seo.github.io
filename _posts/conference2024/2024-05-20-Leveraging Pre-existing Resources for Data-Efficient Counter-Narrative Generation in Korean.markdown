@@ -10,6 +10,7 @@ categories: outstanding
 - Seungyoon Lee, Chanjun Park, DaHyun Jung, Hyeonseok Moon, **Jaehyung Seo**, Sugyeong Eo and Heuiseok Lim
 
 **Abstract**
+
 Counter-narrative generation, i.e., the generation of fact-based responses to hate speech with the aim of correcting
 discriminatory beliefs, has been demonstrated to be an effective method to combat hate speech. However, its
 effectiveness is limited by the resource-intensive nature of dataset construction processes and only focuses on
