@@ -53,6 +53,7 @@
 
 <span style='background-color:#c0c8ff'><b><span style='color:black'>Reviewer</span></b></span>
 
+- **EMNLP 2024**
 - **ACL 2024**
 - **NAACL 2024**
 - **EMNLP 2023**
