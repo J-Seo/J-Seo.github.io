@@ -1,0 +1,25 @@
+---
+layout: post
+title: "KoCommonGEN v2: A Benchmark for Navigating Korean Commonsense Reasoning Challenges in Large Language Models (ACL-findings 2024)"
+date: 2024-07-31
+Journal: ACL 2024
+categories: outstanding
+---
+
+**Authors**
+- **Jaehyung Seo**, Jaewook Lee, Chanjun Park, SeongTae Hong, Seungjun Lee, Heuiseok Lim
+
+**Abstract**
+
+The evolution of large language models (LLMs) has culminated in a multitask model paradigm where prompts drive the generation of user-specific outputs. 
+However, this advancement has revealed a critical challenge: LLMs frequently produce outputs against socially acceptable commonsense standards in various scenarios. 
+To address this gap in commonsense reasoning, we present KoCommonGEN v2, a fine-grained benchmark dataset focused on Korean commonsense reasoning. 
+This dataset, enriched with human annotations, comprises multiple-choice questions across seven error categories. These categories include commonsense memorization, numerical commonsense, toxic speech, and more, 
+which are vulnerable to undermining the reliability of LLMs' commonsense reasoning capabilities. The empirical results present that LLMs struggle with Korean commonsense reasoning. 
+With human accuracy benchmarked at approximately 85%, GPT-4's performance lags at about 74%, and other LLMs demonstrate an average accuracy of around 42%. 
+Our findings emphasize the need for targeted improvements in Korean commonsense reasoning within LLMs, paving the way for more socially and contextually sensitive AI models.
+
+Check out the [This Link][DOI] for more info on our paper
+
+[DOI]: TBD
+
