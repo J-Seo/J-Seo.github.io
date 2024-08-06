@@ -5,9 +5,9 @@
 <span style='background-color:#ffdce0'><b><span style='color:black'>Natural Language Processing, Commonsense Reasoning, Generation, Language Resource & Evaluation</span></b></span>
 
 ### Education 🎓
-**2024 Ph.D candidate** in **Computer Science at Korea University**, South Korea <br>
-**2020 B.A Degree** in **Business School at Korea University**, South Korea <br> 
-**2020 B.A Degree** in **English Language and Literature at Korea University**, South Korea <br>
+**2024 Ph.D candidate** in **Computer Science at Korea University (Seoul)**, South Korea <br>
+**2020 B.A.** in **Business School at Korea University (Seoul)**, South Korea <br> 
+**2020 B.A.** in **English Language and Literature at Korea University (Seoul)**, South Korea <br>
 
 ### Awards 🏆
 
