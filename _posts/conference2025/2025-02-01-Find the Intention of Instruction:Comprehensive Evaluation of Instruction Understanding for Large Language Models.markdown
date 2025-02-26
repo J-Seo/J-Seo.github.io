@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "<img src='/assets/naacl2025.png'> Find the Intention of Instruction: Comprehensive Evaluation of Instruction Understanding for Large Language Models"
+title: "<img src='https://github.com/J-Seo/J-Seo.github.io/blob/main/assets/img/naacl2025.png'> Find the Intention of Instruction: Comprehensive Evaluation of Instruction Understanding for Large Language Models"
 date: 2025-02-01
 Journal: NAACL 2025
 categories: outstanding
