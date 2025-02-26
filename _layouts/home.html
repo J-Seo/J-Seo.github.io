@@ -10,8 +10,11 @@ home: true
   <span hidden itemprop="categories" itemtype="Person">{{ post.categories }}</span>
   <span class="post-item-date">{{ post.date | date: "%b. %Y" }}</span>
   <h4 class="post-item-title">
-    <a href="{{ post.url }}">{{ post.title | escape }}</a>
+    {% if post.image %}
+      <img src="{{ post.image }}" alt="Post Image" style="height: 24px; vertical-align: middle; margin-right: 10px;">
+    {% endif %}
+    <a href="{{ post.url }}">{{ post.title }}</a>
   </h4>
-  {% endif %}
+{% endif %}
 </article>
 {%- endfor -%}
