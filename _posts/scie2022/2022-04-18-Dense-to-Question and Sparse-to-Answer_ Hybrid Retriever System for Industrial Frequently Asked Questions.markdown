@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Dense-to-Question and Sparse-to-Answer: Hybrid Retriever System for Industrial Frequently Asked Questions (Mathematics 2022)"
+title: "Dense-to-Question and Sparse-to-Answer: Hybrid Retriever System for Industrial Frequently Asked Questions"
 date: 2022-05-09
 Journal: MDPI Mathematics
 categories: outstanding
