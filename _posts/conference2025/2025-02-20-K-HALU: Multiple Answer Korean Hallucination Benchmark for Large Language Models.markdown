@@ -5,7 +5,6 @@ date: 2025-02-01
 image: "https://raw.githubusercontent.com/J-Seo/J-Seo.github.io/main/assets/img/iclr2025.png"
 Journal: ICLR 2025
 authors: **Jaehyung Seo**, Heuiseok Lim
-
 categories: outstanding
 ---
 
