@@ -8,13 +8,27 @@ home: true
 {% if post.categories != empty %}
 <article class="post-item">
   <span hidden itemprop="categories" itemtype="Person">{{ post.categories }}</span>
-  <span class="post-item-date">{{ post.date | date: "%b. %Y" }}</span>
-  <h4 class="post-item-title">
+
+  <!-- 포스트 로고를 post-item-date 자리에 배치 -->
+  <span class="post-item-date">
     {% if post.image %}
-      <img src="{{ post.image }}" alt="Post Image" style="height: 24px; vertical-align: middle; margin-right: 10px;">
+      <img src="{{ post.image }}" alt="Post Logo" style="height: 24px; vertical-align: middle;">
+    {% else %}
+      <!-- 기본 로고 추가 가능 -->
+      <img src="https://raw.githubusercontent.com/J-Seo/J-Seo.github.io/main/assets/img/default.png" alt="Default Logo" style="height: 24px; vertical-align: middle;">
     {% endif %}
+  </span>
+
+  <!-- 포스트 제목 및 저자 정보 추가 -->
+  <h4 class="post-item-title">
     <a href="{{ post.url }}">{{ post.title }}</a>
+    {% if post.authors %}
+      <br>
+      <small style="color: gray;">{{ post.authors }}</small>
+    {% endif %}
   </h4>
 {% endif %}
 </article>
+{%- endfor -%}
+
 {%- endfor -%}
