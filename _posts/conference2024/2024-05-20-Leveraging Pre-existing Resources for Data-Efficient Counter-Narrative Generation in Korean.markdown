@@ -1,16 +1,17 @@
 ---
 layout: post
-title: "Leveraging Pre-existing Resources for Data-Efficient Counter-Narrative Generation in Korean (LREC-COLING 2024)"
+title: "Leveraging Pre-existing Resources for Data-Efficient Counter-Narrative Generation in Korean"
 date: 2024-05-20
 Journal: LREC-COLING 2024
+image: "https://raw.githubusercontent.com/J-Seo/J-Seo.github.io/main/assets/img/lrec_coling2024.png"
 categories: outstanding
+authors: Seungyoon Lee, Chanjun Park, DaHyun Jung, Hyeonseok Moon, Jaehyung Seo, Sugyeong Eo, Heuiseok Lim
 ---
 
 **Authors**
 - Seungyoon Lee, Chanjun Park, DaHyun Jung, Hyeonseok Moon, **Jaehyung Seo**, Sugyeong Eo and Heuiseok Lim
 
 **Abstract**
-
 Counter-narrative generation, i.e., the generation of fact-based responses to hate speech with the aim of correcting
 discriminatory beliefs, has been demonstrated to be an effective method to combat hate speech. However, its
 effectiveness is limited by the resource-intensive nature of dataset construction processes and only focuses on
@@ -25,5 +26,5 @@ overcoming the challenges of generating counter-narratives in low-resource envir
 
 Check out the [This Link][DOI] for more info on our paper
 
-[DOI]: TBD
+[DOI]: https://aclanthology.org/2024.lrec-main.907/
 
