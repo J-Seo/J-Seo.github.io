@@ -50,6 +50,8 @@ layout: compress
               <img src="{{ page.image }}" alt="Post Image" style="height: 24px; vertical-align: middle; margin-right: 10px;">
             {% endif %}
             {{ page.title }}
+              <br>
+              <small id="post-authors" style="color: gray;"></small> <!-- 저자 정보 표시 -->
           </h1>
           {% if page.date %}
           <div class="post-meta">
@@ -96,6 +98,25 @@ layout: compress
 
     {% include footer.html %}
   </div>
+
+    <!-- ✅ JavaScript: URL에서 title과 authors 값을 가져와 표시 -->
+  <script>
+    document.addEventListener("DOMContentLoaded", function() {
+      const urlParams = new URLSearchParams(window.location.search);
+      const title = urlParams.get("title");
+      const authors = urlParams.get("authors");
+
+      if (title) {
+        document.getElementById("post-title").innerText = decodeURIComponent(title);
+      }
+      if (authors) {
+        document.getElementById("post-authors").innerHTML = `<strong>Authors:</strong> ${decodeURIComponent(authors)}`;
+      }
+    });
+  </script>
+
+
+
 </body>
 
 </html>
