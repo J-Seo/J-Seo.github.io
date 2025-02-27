@@ -1,16 +1,16 @@
 ---
 layout: post
-title: "KoCommonGEN v2: A Benchmark for Navigating Korean Commonsense Reasoning Challenges in Large Language Models (ACL-findings 2024)"
+title: "KoCommonGEN v2: A Benchmark for Navigating Korean Commonsense Reasoning Challenges in Large Language Models"
 date: 2024-07-31
-Journal: ACL 2024
+Journal: ACL 2024 - Findings
 categories: outstanding
+image: "https://raw.githubusercontent.com/J-Seo/J-Seo.github.io/main/assets/img/acl2024.png"
+authors: Jaehyung Seo, Jaewook Lee, Chanjun Park, SeongTae Hong, Seungjun Lee, Heuiseok Lim
 ---
-
 **Authors**
 - **Jaehyung Seo**, Jaewook Lee, Chanjun Park, SeongTae Hong, Seungjun Lee, Heuiseok Lim
 
 **Abstract**
-
 The evolution of large language models (LLMs) has culminated in a multitask model paradigm where prompts drive the generation of user-specific outputs. 
 However, this advancement has revealed a critical challenge: LLMs frequently produce outputs against socially acceptable commonsense standards in various scenarios. 
 To address this gap in commonsense reasoning, we present KoCommonGEN v2, a fine-grained benchmark dataset focused on Korean commonsense reasoning. 
@@ -21,5 +21,5 @@ Our findings emphasize the need for targeted improvements in Korean commonsense 
 
 Check out the [This Link][DOI] for more info on our paper
 
-[DOI]: TBD
+[DOI]: https://aclanthology.org/2024.findings-acl.141/
 
