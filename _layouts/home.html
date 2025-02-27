@@ -20,9 +20,7 @@ home: true
   </span>
   <!-- 포스트 제목 및 저자 정보 추가 -->
   <h4 class="post-item-title">
-    <a href="{{ post.url }}?title={{ post.title | uri_escape }}&authors={{ post.authors | uri_escape }}">
-      {{ post.title }}{% if post.authors %} - {{ post.authors }}{% endif %}
-    </a>
+    <a href="{{ post.url }}">{{ post.title }}{% if post.authors %} - {{ post.Authors }}{% endif %}</a>
   </h4>
 {% endif %}
 </article>
