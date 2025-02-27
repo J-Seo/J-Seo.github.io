@@ -1,11 +1,12 @@
 ---
 layout: post
-title: "KEBAP: Korean Error Explainable Benchmark Dataset for ASR and Post-processing (EMNLP 2023)"
+title: "KEBAP: Korean Error Explainable Benchmark Dataset for ASR and Post-processing"
 date: 2023-12-06
-Journal: EMNLP 2023
+Journal: EMNLP 2023 - Main
+image: "https://raw.githubusercontent.com/J-Seo/J-Seo.github.io/main/assets/img/emnlp2023.png"
 categories: outstanding
+authors: Seonmin Koo, Chanjun Park, Jinsung Kim, Jaehyung Seo, Sugyeong Eo, Hyeonseok Moon, Heui-Seok Lim
 ---
-
 **Authors**
 - Seonmin Koo, Chanjun Park, Jinsung Kim, **Jaehyung Seo**, Sugyeong Eo, Hyeonseok Moon, Heui-Seok Lim
 
