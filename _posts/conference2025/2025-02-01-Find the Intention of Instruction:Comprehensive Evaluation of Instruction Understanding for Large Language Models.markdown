@@ -3,7 +3,7 @@ layout: post
 title: "Find the Intention of Instruction: Comprehensive Evaluation of Instruction Understanding for Large Language Models"
 date: 2025-02-01
 image: "https://raw.githubusercontent.com/J-Seo/J-Seo.github.io/main/assets/img/naacl2025.png"
-Journal: NAACL 2025 - findings
+Journal: NAACL 2025 - Findings
 authors: Hyeonseok Moon, Jaehyung Seo, Seungyoon Lee, Chanjun Park, Heuiseok Lim
 categories: outstanding
 ---
