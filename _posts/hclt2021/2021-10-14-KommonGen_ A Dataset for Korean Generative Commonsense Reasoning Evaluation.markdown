@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[Best Paper Awards] KommonGen: A Dataset for Korean Generative Commonsense Reasoning Evaluation (HCLT 2021)"
+title: "[Best Paper Awards] KommonGen: A Dataset for Korean Generative Commonsense Reasoning Evaluation"
 date: 2021-10-14
 Journal: Annual Conference on Human and Language Technology
 categories: outstanding
