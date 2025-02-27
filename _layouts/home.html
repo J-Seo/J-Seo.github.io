@@ -18,14 +18,11 @@ home: true
       <img src="https://raw.githubusercontent.com/J-Seo/J-Seo.github.io/main/assets/img/default.png" alt="Default Logo" style="height: 24px; vertical-align: middle;">
     {% endif %}
   </span>
-
   <!-- 포스트 제목 및 저자 정보 추가 -->
   <h4 class="post-item-title">
-    <a href="{{ post.url }}">{{ post.title }}</a>
-    {% if post.authors %}
-      <br>
-      <small style="color: gray;">{{ post.authors }}</small>
-    {% endif %}
+    <a href="{{ post.url }}?title={{ post.title | uri_escape }}&authors={{ post.authors | uri_escape }}">
+      {{ post.title }}{% if post.authors %} - {{ post.authors }}{% endif %}
+    </a>
   </h4>
 {% endif %}
 </article>
