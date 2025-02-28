@@ -4,7 +4,7 @@ title: "BTS: Back TranScription for Speech-to-Text Post-Processor using Text-to-
 date: 2021-08-01
 Conference: Proceedings of the 8th Workshop on Asian Translation (WAT2021)
 categories: outstanding
-author: Chanjun Park, Jaehyung Seo, Seolhwa Lee, Chanhee Lee, Hyeonseok Moon, Sugyeong Eo, Heui-Seok Lim
+authors: Chanjun Park, Jaehyung Seo, Seolhwa Lee, Chanhee Lee, Hyeonseok Moon, Sugyeong Eo, Heui-Seok Lim
 image: "https://raw.githubusercontent.com/J-Seo/J-Seo.github.io/main/assets/img/wat2021.png"
 ---
 **Authors**

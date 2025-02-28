@@ -4,7 +4,7 @@ title: "[Best Paper Awards] KommonGen: A Dataset for Korean Generative Commonsen
 date: 2021-10-14
 Journal: Annual Conference on Human and Language Technology
 categories: outstanding
-author: Jaehyung Seo, Chanjun Park, Hyeonseok Moon, Sugyeong Eo, Myunghoon Kang, Seounghoon Lee, Heuiseok Lim
+authors: Jaehyung Seo, Chanjun Park, Hyeonseok Moon, Sugyeong Eo, Myunghoon Kang, Seounghoon Lee, Heuiseok Lim
 image: "https://raw.githubusercontent.com/J-Seo/J-Seo.github.io/main/assets/img/hclt2021.png"
 ---
 **Authors**
