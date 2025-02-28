@@ -2,7 +2,7 @@
 
 ### Research Interest 😆
 
-<span style='background-color:#ffdce0'><b><span style='color:black'>Natural Language Processing, Commonsense Reasoning, Generation, Language Resource & Evaluation</span></b></span>
+<span style='background-color:#ffdce0'><b><span style='color:black'>Natural Language Processing, Commonsense Reasoning, Knowledge Editing, Hallucination, Language Resource & Evaluation</span></b></span>
 
 ### Education 🎓
 **2024 Ph.D candidate** in **Computer Science at Korea University (Seoul)**, South Korea <br>
@@ -10,6 +10,8 @@
 **2020 B.A.** in **English Language and Literature at Korea University (Seoul)**, South Korea <br>
 
 ### Awards 🏆
+<span style='background-color:#F7DDBE'><b><span style='color:black'>Grand Prize Paper 2024</span></b></span>
+- The 36rd Annual Conference on Human & Cognitive Language Technology (HCLT2024): *Model Interpretability Section*
 
 <span style='background-color:#F7DDBE'><b><span style='color:black'>Best Paper Award 2023</span></b></span>
 - The 35rd Annual Conference on Human & Cognitive Language Technology (HCLT2023): *Language Resource and Information Retrieval Section*
@@ -51,8 +53,13 @@
 
 ### Academic Services 😺
 
-<span style='background-color:#c0c8ff'><b><span style='color:black'>Reviewer</span></b></span>
+<span style='background-color:#c0c8ff'><b><span style='color:black'>Workshop Organizer</span></b></span>
+- **ICLR 2025 Workshop (SSNLP 2025) with A*STAR (Singapore)** 
 
+<span style='background-color:#c0c8ff'><b><span style='color:black'>Reviewer</span></b></span>
+- **ICLR 2025**
+- **ACL 2025**
+- **NAACL 2025**
 - **EMNLP 2024**
 - **ACL 2024**
 - **NAACL 2024**
@@ -60,6 +67,12 @@
 - **ACL 2023**
 
 ### Selected Projects 🌌
+<span style='background-color:#d2b8ff'><b><span style='color:black'>KT - Knowledge Editing</span></b></span>
+<div style="text-align: right"><span style='color:#808080'>Apr. 2024 - May. 2025 </span></div>
+- **Project Manager at Korea University**
+- Supported by <b><span style='color:red'>IITP</span></b>
+- Skills: Knowledge Editing, Legal NLP, RAG
+
 <span style='background-color:#d2b8ff'><b><span style='color:black'>Next-Generation AI Technology Development - Hallucination</span></b></span>
 <div style="text-align: right"><span style='color:#808080'>Jan. 2024 - </span></div>
 - **Project Manager at Korea University**
@@ -67,13 +80,13 @@
 - Skills: Large language model, Hallucination detection/mitigation
 
 <span style='background-color:#d2b8ff'><b><span style='color:black'>Large Language Modeling for Special Technical Documents</span></b></span>
-<div style="text-align: right"><span style='color:#808080'>Dec. 2023 - </span></div>
+<div style="text-align: right"><span style='color:#808080'>Dec. 2023 - Dec. 2024 </span></div>
 - **Researcher at Korea University**
 - Supported by <b><span style='color:red'>GAON</span></b>
 - Skills: Large language modeling, RAG
 
 <span style='background-color:#d2b8ff'><b><span style='color:black'>Open Ko-LLM Leaderboard</span></b></span>
-<div style="text-align: right"><span style='color:#808080'>Sep. 2023 - </span></div>
+<div style="text-align: right"><span style='color:#808080'>Sep. 2023 - Feb. 2024 </span></div>
 - **Ko-CommonGen V2 (provided by Korea University NLP&AI Lab, created from scratch)**
 - Supported by <b><span style='color:red'>Upstage</span></b>
 - Skills: Large language model, Commonsense Reasoning, Evaluation
