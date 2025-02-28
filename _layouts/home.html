@@ -20,7 +20,7 @@ home: true
   </span>
   <!-- 포스트 제목 및 저자 정보 추가 -->
   <h4 class="post-item-title">
-      <a href="{{ post.url }}">{{ post.title }}{% if post.authors %} - <span style="color: gray; font-style: italic;">{{ post.authors | strip_html }}</span>{% endif %}</a>
+      <a href="{{ post.url }}">{{ post.title }}{% if post.authors %} - <span style="color: gray; font-style: italic;">{{post.authors | replace: "Jaehyung Seo", "<strong>Jaehyung Seo</strong>" | strip_html}}</span>{% endif %}</a>
   </h4>
 {% endif %}
 </article>
