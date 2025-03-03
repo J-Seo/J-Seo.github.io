@@ -67,10 +67,10 @@
 - **ACL 2023**
 
 ### Selected Projects 🌌
-<span style='background-color:#d2b8ff'><b><span style='color:black'>KT - Knowledge Editing</span></b></span>
+<span style='background-color:#d2b8ff'><b><span style='color:black'>Legal Knowledge Editing</span></b></span>
 <div style="text-align: right"><span style='color:#808080'>Apr. 2024 - May. 2025 </span></div>
 - **Project Manager at Korea University**
-- Supported by <b><span style='color:red'>IITP</span></b>
+- Supported by <b><span style='color:red'>KT Corporation</span></b>
 - Skills: Knowledge Editing, Legal NLP, RAG
 
 <span style='background-color:#d2b8ff'><b><span style='color:black'>Next-Generation AI Technology Development - Hallucination</span></b></span>
