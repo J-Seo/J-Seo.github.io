@@ -35,6 +35,9 @@ home: true
   </span>
   <!-- 포스트 제목 및 저자 정보 추가 -->
 <h4 class="post-item-title">
+  {% if post.star %}
+    <span style="color:gold;">{{ post.star }}</span>
+  {% endif %}
   <a href="{{ post.url }}">{{ post.title }}</a><br>
   {% if post.authors %}
     <span style="color: gray; font-style: italic;">
