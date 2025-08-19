@@ -3,7 +3,7 @@ layout: post
 title: "CoME: An Unlearning-based Approach to Conflict-free Model Editing"
 date: 2025-02-01
 image: "https://raw.githubusercontent.com/J-Seo/J-Seo.github.io/main/assets/img/naacl2025.png"
-Journal: NAACL 2025 - Main
+Journal: NAACL 2025
 authors: Dahyun Jung, Jaehyung Seo, Jaewook Lee, Chanjun Park, Heuiseok Lim
 categories: outstanding
 ---
