@@ -3,6 +3,7 @@ layout: post
 title: "Study on Decoding Strategies in Neural Machine Translation (KCS 2021)"
 date: 2021-11-28
 Journal: Korea Convergence Society (한국융합학회)
+star: 🌟
 ---
 
 **Authors**
