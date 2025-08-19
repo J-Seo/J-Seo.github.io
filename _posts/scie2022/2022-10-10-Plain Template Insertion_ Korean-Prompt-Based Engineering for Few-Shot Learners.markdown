@@ -6,6 +6,7 @@ Journal: IEEE Access 2022
 categories: outstanding
 authors: Jaehyung Seo, Hyeonseok Moon, Chanhee Lee, Sugyeong Eo, Chanjun Park, Jihoon Kim, Changwoo Chun, Heuiseok Lim
 image: "https://raw.githubusercontent.com/J-Seo/J-Seo.github.io/main/assets/img/access2022.png"
+star: 🌟
 ---
 **IEEE Access** 
 - Impact Factor 2022: 3.47
