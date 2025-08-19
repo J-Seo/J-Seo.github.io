@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "[Grand Prize Paper] Post-negation Text Induce New Hallucinations in Large Language Models"
+title: "[Best Paper] Post-negation Text Induce New Hallucinations in Large Language Models"
 date: 2024-10-14
-Journal: Annual Conference on Human and Language Technology
+Journal: HCLT 2024
 categories: outstanding
 authors: Jaehyung Seo, Aram So, Heuiseok Lim
 image: "https://raw.githubusercontent.com/J-Seo/J-Seo.github.io/main/assets/img/hclt2024.png"
