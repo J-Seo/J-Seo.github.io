@@ -6,6 +6,7 @@ Journal: HCLT 2024
 categories: outstanding
 authors: Jaehyung Seo, Aram So, Heuiseok Lim
 image: "https://raw.githubusercontent.com/J-Seo/J-Seo.github.io/main/assets/img/hclt2024.png"
+star: 🌟
 ---
 **Authors**
 - **Jaehyung Seo**, Aram So, Heuiseok Lim
