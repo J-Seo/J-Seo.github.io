@@ -6,6 +6,7 @@ image: "https://raw.githubusercontent.com/J-Seo/J-Seo.github.io/main/assets/img/
 Journal: ICLR 2025
 authors: Jaehyung Seo, Heuiseok Lim
 categories: outstanding
+star: 🌟
 ---
 **Authors**
 - **Jaehyung Seo**, Heuiseok Lim
