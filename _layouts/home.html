@@ -3,6 +3,13 @@ layout: default
 home: true
 ---
 
+<style>
+  ul.news-list { list-style: none; padding-left: 0; margin-left: 0; }
+  ul.news-list li { margin: .35rem 0; }
+  ul.news-list li::marker { content: ""; }           /* 브라우저 기본 불릿 제거 */
+  ul.news-list li:before { content: none !important; }/* 테마가 넣은 '–' 제거 */
+</style>
+
 <h3 class="posts-item-note2" aria-label="Recent Updates">Latest News</h3>
 <ul class="news-list">
   <li>🏅 <b>Aug 2025</b>: Appointed to the <b>National Representative K-AI Research Team</b> (with NC AI).</li>
