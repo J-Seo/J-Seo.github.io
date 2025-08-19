@@ -13,12 +13,12 @@ future: true
 author:
   name: "Jaehyung Seo (Jay)"
   link: >
-    <a href="https://scholar.google.com/citations?user=V8bFAUIAAAAJ&hl=ko&oi=ao"><img src="https://img.shields.io/badge/google%20scholar-4285F4?style=flat&logo=google-scholar&logoColor=white"/>
+    <a href="https://scholar.google.com/citations?user=V8bFAUIAAAAJ&hl=ko&oi=ao"><img src="https://img.shields.io/badge/google%20scholar-4285F4?style=flat&logo=google-scholar&logoColor=white"/></a>
     <a href="https://github.com/J-Seo"><img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"/></a>
     <a href="https://www.linkedin.com/in/jaehyungseo-datascientist/"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
     <a href="https://j-seo.github.io/assets/250819_cv_jaehyungseo.pdf"><img src="https://img.shields.io/badge/CV-%23111111?style=flat&logo=readdotcv&logoColor=white"/></a>
   bio: >-
-    Hi! I received my Ph.D. in the Department of Computer Science and Engineering from Korea University (Advisor:
+    Hi! I received my Ph.D. in the Department of <b>Computer Science and Engineering from Korea University<\b> (Advisor:
     <a href="https://scholar.google.co.kr/citations?user=HMTkz7oAAAAJ&amp;hl=ko&amp;oi=ao">Heuiseok Lim</a>).
     <br>
     <!-- Research focus badges -->
