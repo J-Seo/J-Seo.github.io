@@ -6,6 +6,7 @@ Journal: MDPI Mathematics
 categories: outstanding
 authors: Jaehyung Seo, Taemin Lee, Hyeonseok Moon, Chanjun Park, Sugyeong Eo, Imatitikua D Aiyanyo, Kinam Park, Aram So, Sungmin Ahn, Jeongbae Park
 image: "https://raw.githubusercontent.com/J-Seo/J-Seo.github.io/main/assets/img/math2021.png"
+star: 🌟
 ---
 **MDPI Mathematics**
 - Impact Factor 2022: 2.88
