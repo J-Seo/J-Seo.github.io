@@ -2,3 +2,12 @@
 ---
 
 @import "main";
+
+ul.news-list {
+  list-style: none !important;
+  padding-left: 0 !important;
+  margin-left: 0 !important;
+}
+ul.news-list li::marker {
+  content: "" !important;  /* 마커 완전히 제거 */
+}
