@@ -4,7 +4,7 @@ title: "Intelligent Predictive Maintenance RAG framework for Power Plants: Enhan
 date: 2024-11-09
 image: "https://raw.githubusercontent.com/J-Seo/J-Seo.github.io/main/assets/img/emnlp2024.png"
 Journal: EMNLP 2024 - industry track
-authors: Seongtae Hong, Shin Joong Min, Jaehyung Seo, Taemin Lee, Jeongbae Park, Cho Man Young, Byeongho Choi, Heuiseok Lim
+authors: Seongtae Hong, Shin Joong Min, Jaehyung Seo, Taemin Lee, Jeongbae Park†, Cho Man Young, Byeongho Choi, Heuiseok Lim†
 categories: outstanding
 ---
 **Authors**
