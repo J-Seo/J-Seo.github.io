@@ -4,7 +4,7 @@ title: "Dense-to-Question and Sparse-to-Answer: Hybrid Retriever System for Indu
 date: 2022-05-09
 Journal: MDPI Mathematics
 categories: outstanding
-authors: Jaehyung Seo, Taemin Lee, Hyeonseok Moon, Chanjun Park, Sugyeong Eo, Imatitikua D Aiyanyo, Kinam Park, Aram So, Sungmin Ahn, Jeongbae Park
+authors: Jaehyung Seo, Taemin Lee, Hyeonseok Moon, Chanjun Park, Sugyeong Eo, Imatitikua D Aiyanyo, Kinam Park, Aram So, Sungmin Ahn, Jeongbae Park†
 image: "https://raw.githubusercontent.com/J-Seo/J-Seo.github.io/main/assets/img/math2021.png"
 star: 🌟
 ---
