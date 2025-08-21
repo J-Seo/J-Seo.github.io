@@ -5,7 +5,7 @@ date: 2023-12-06
 Journal: EMNLP 2023
 image: "https://raw.githubusercontent.com/J-Seo/J-Seo.github.io/main/assets/img/emnlp2023.png"
 categories: outstanding
-authors: Jaehyung Seo, Hyeonseok Moon, Jaewook Lee, Sugyeong Eo, Chanjun Park, Heuiseok Lim
+authors: Jaehyung Seo, Hyeonseok Moon, Jaewook Lee, Sugyeong Eo, Chanjun Park, Heuiseok Lim†
 star: 🌟
 ---
 **Authors**
