@@ -5,7 +5,7 @@ date: 2022-07-15
 Journal: NAACL 2022 - Findings
 categories: outstanding
 image: "https://raw.githubusercontent.com/J-Seo/J-Seo.github.io/main/assets/img/naacl2022.png"
-authors: Jaehyung Seo, Seounghoon Lee, Chanjun Park, Yoonna Jang, Hyeonseok Moon, Sugyeong Eo, Seonmin Koo, Heuiseok Lim
+authors: Jaehyung Seo, Seounghoon Lee, Chanjun Park, Yoonna Jang, Hyeonseok Moon, Sugyeong Eo, Seonmin Koo, Heuiseok Lim†
 star: 🌟
 ---
 
