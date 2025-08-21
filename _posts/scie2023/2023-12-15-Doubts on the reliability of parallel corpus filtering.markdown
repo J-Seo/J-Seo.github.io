@@ -5,7 +5,7 @@ date: 2023-12-15
 Journal: Expert Systems with Applications 2023
 categories: outstanding
 image: "https://raw.githubusercontent.com/J-Seo/J-Seo.github.io/main/assets/img/eswa2023.png"
-authors: Hyeonseok Moon, Chanjun Park, Seonmin Koo, Jungseob Lee, Seungjun Lee, Jaehyung Seo, Sugyeong Eo, Yoonna Jang, Hyunjoong Kim, Hyoung-gyu Lee, Heuiseok Lim
+authors: Hyeonseok Moon, Chanjun Park, Seonmin Koo, Jungseob Lee, Seungjun Lee, Jaehyung Seo, Sugyeong Eo, Yoonna Jang, Hyunjoong Kim, Hyoung-gyu Lee, Heuiseok Lim†
 ---
 
 **Authors**
