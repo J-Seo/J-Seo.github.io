@@ -4,7 +4,7 @@ title: "MultiDocFusion : Hierarchical and Multimodal Chunking Pipeline for Enhan
 date: 2025-08-20
 image: "https://raw.githubusercontent.com/J-Seo/J-Seo.github.io/main/assets/img/emnlp2025.png"
 Journal: EMNLP 2025
-authors: Joong Min Shin, Chanjun Park, Jeongbae Park, Jaehyung Seo, Heuiseok Lim
+authors: Joong Min Shin, Chanjun Park, Jeongbae Park, Jaehyung Seo†, Heuiseok Lim†
 categories: outstanding
 star: 🌟
 ---
