@@ -5,7 +5,7 @@ date: 2022-10-27
 Journal: AACL 2022
 image: "https://raw.githubusercontent.com/J-Seo/J-Seo.github.io/main/assets/img/aacl2022.png"
 categories: outstanding
-author: Chanjun Park, Yoonna Jang, Seolhwa Lee, Jaehyung Seo, Kisu Yang, Heuiseok Lim
+author: Chanjun Park, Yoonna Jang, Seolhwa Lee, Jaehyung Seo, Kisu Yang, Heuiseok Lim†
 ---
 **Authors**
 - Chanjun Park, Yoonna Jang, Seolhwa Lee, **Jaehyung Seo**, Kisu Yang, Heuiseok Lim
