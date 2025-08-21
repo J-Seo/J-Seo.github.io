@@ -4,7 +4,7 @@ title: "[Best Paper] Post-negation Text Induce New Hallucinations in Large Langu
 date: 2024-10-14
 Journal: HCLT 2024
 categories: outstanding
-authors: Jaehyung Seo, Aram So, Heuiseok Lim
+authors: Jaehyung Seo, Aram So, Heuiseok Lim†
 image: "https://raw.githubusercontent.com/J-Seo/J-Seo.github.io/main/assets/img/hclt2024.png"
 star: 🌟
 ---
