@@ -4,7 +4,7 @@ title: "PU-GEN: Enhancing generative commonsense reasoning for language models w
 date: 2022-10-28
 Journal: Knowledge-Based Systems 2022
 categories: outstanding
-authors: Jaehyung Seo, Dongsuk Oh, Sugyeong Eo, Chanjun Park, Kisu Yang, Hyeonseok Moon, Kinam Park, Heuiseok Lim
+authors: Jaehyung Seo, Dongsuk Oh, Sugyeong Eo, Chanjun Park, Kisu Yang, Hyeonseok Moon, Kinam Park, Heuiseok Lim†
 image: "https://raw.githubusercontent.com/J-Seo/J-Seo.github.io/main/assets/img/kbs2022.png"
 star: 🌟
 ---
