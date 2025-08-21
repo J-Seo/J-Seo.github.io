@@ -5,7 +5,7 @@ date: 2024-07-31
 Journal: ACL 2024 - Findings
 categories: outstanding
 image: "https://raw.githubusercontent.com/J-Seo/J-Seo.github.io/main/assets/img/acl2024.png"
-authors: Jaehyung Seo, Jaewook Lee, Chanjun Park, SeongTae Hong, Seungjun Lee, Heuiseok Lim
+authors: Jaehyung Seo, Jaewook Lee, Chanjun Park, SeongTae Hong, Seungjun Lee, Heuiseok Lim†
 star: 🌟
 ---
 **Authors**
