@@ -9,7 +9,7 @@ categories: outstanding
 star: 🌟
 ---
 **Authors**
-- Joong Min Shin, Chanjun Park, Jeongbae Park, **Jaehyung Seo** (+), Heuiseok Lim
+- Joong Min Shin, Chanjun Park, Jeongbae Park, **Jaehyung Seo†**, Heuiseok Lim†
 
 **Abstract**
 
