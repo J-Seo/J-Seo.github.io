@@ -6,7 +6,6 @@ image: "https://raw.githubusercontent.com/J-Seo/J-Seo.github.io/main/assets/img/
 Journal: EMNLP 2025 - findings
 authors: Hyeonseok Moon, Jaehyung Seo, Seonmin Koo, Jinsung Kim, Youngkyoung Ham, Jiwon Moon, Heuiseok Lim†
 categories: outstanding
-star: 🌟
 ---
 **Authors**
 - Hyeonseok Moon, **Jaehyung Seo**, Seonmin Koo, Jinsung Kim, Young-kyoung Ham, jiwon moon, Heuiseok Lim
