@@ -5,7 +5,7 @@ date: 2024-05-20
 Journal: LREC-COLING 2024
 image: "https://raw.githubusercontent.com/J-Seo/J-Seo.github.io/main/assets/img/lrec_coling2024.png"
 categories: outstanding
-authors: Seungyoon Lee, Chanjun Park, DaHyun Jung, Hyeonseok Moon, Jaehyung Seo, Sugyeong Eo, Heuiseok Lim
+authors: Seungyoon Lee, Chanjun Park†, DaHyun Jung, Hyeonseok Moon, Jaehyung Seo, Sugyeong Eo, Heuiseok Lim†
 ---
 
 **Authors**
