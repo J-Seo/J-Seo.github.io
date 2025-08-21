@@ -1,11 +1,12 @@
 ---
 layout: post
-title: "Exploiting hanja-based resources in processing korean historic documents written by common literati"
+title: "An analysis on language transfer of pre-trained language model with cross-lingual post-training"
 date: 2025-04-01
 Journal: Expert Systems with Applications 2025
-authors: Suhyune Son, Chanjun Park, Jungseob Lee, Midan Shim, Chanhee Lee, Yoonna Jang, Jaehyung Seo, Jungwoo Lim, Heuiseok Lim
+authors: Suhyune Son, Chanjun Park, Jungseob Lee, Midan Shim, Chanhee Lee, Yoonna Jang, Jaehyung Seo, Jungwoo Lim, Heuiseok Lim†
 image: "https://raw.githubusercontent.com/J-Seo/J-Seo.github.io/main/assets/img/access2024.png"
 ---
+
 **ESWA** 
 - Impact Factor 2024: 7.5
 
