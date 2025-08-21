@@ -4,7 +4,7 @@ title: "Plain Template Insertion: Korean-Prompt-Based Engineering for Few-Shot L
 date: 2022-10-10
 Journal: IEEE Access 2022
 categories: outstanding
-authors: Jaehyung Seo, Hyeonseok Moon, Chanhee Lee, Sugyeong Eo, Chanjun Park, Jihoon Kim, Changwoo Chun, Heuiseok Lim
+authors: Jaehyung Seo, Hyeonseok Moon, Chanhee Lee, Sugyeong Eo, Chanjun Park, Jihoon Kim, Changwoo Chun, Heuiseok Lim†
 image: "https://raw.githubusercontent.com/J-Seo/J-Seo.github.io/main/assets/img/access2022.png"
 star: 🌟
 ---
