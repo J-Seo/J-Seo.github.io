@@ -4,7 +4,7 @@ title: "PEEP-Talk: A Situational Dialogue-based Chatbot for English Education"
 date: 2023-07-14
 Journal: ACL 2023 - System Demonstrations
 categories: outstanding
-authors: Seungjun Lee, Yoonna Jang, Chanjun Park, Jungseob Lee, Jaehyung Seo, Hyeonseok Moon, Sugyeong Eo, Seounghoon Lee, Bernardo Yahya, Heui-Seok Lim
+authors: Seungjun Lee, Yoonna Jang, Chanjun Park, Jungseob Lee, Jaehyung Seo, Hyeonseok Moon, Sugyeong Eo, Seounghoon Lee, Bernardo Yahya, Heuiseok Lim†
 image: "https://raw.githubusercontent.com/J-Seo/J-Seo.github.io/main/assets/img/acl2023.png"
 ---
 **Authors**
