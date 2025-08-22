@@ -60,9 +60,6 @@
 
 ### Academic Services 😺
 
-<span style='background-color:#c0c8ff'><b><span style='color:black'>Workshop Organizer</span></b></span>
-- **ICLR 2025 Workshop (SSNLP 2025) with A*STAR (Singapore)** 
-
 <span style='background-color:#c0c8ff'><b><span style='color:black'>Reviewer</span></b></span>
 - **AAAI 2025**
 - **EMNLP 2025**
