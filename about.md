@@ -39,19 +39,23 @@
 ### Invited Talk & Teaching Experience 🐯
 
 <span style='background-color:#fff5b1'><b><span style='color:black'>Invitied Speaker</span></b></span>
+- <b><span style='color:red'>DGIST</span></b>
 - **Apr. 2025** Commonsense Reasoning or Hallucination? Unpacking the Plausible Errors of Language Models <br>
 
 <span style='background-color:#fff5b1'><b><span style='color:black'>Invitied Speaker</span></b></span>
-- **Jun. 2023** Introduction to Natural Language Processing and Commonsense Reasoning at Dongguk University <br>
+- <b><span style='color:red'>Dongguk University</span></b>
+- **Jun. 2023** Introduction to Natural Language Processing and Commonsense Reasoning <br>
 
-<span style='background-color:#fff5b1'><b><span style='color:black'>Korea University</span></b></span>
+<span style='background-color:#fff5b1'><b><span style='color:black'>Teaching Assistant</span></b></span>
+- <b><span style='color:red'>Korea University</span></b>
 - **Mar - Jun. 2023** TA for NLP for Artificial Intelligence (DFE615-00) <br>
 - **Sep - Dec. 2022** TA for NLP for digital finance engineering (DFE601-00) <br>
 - **Mar - Jun. 2022** TA for Introduction to information retrieval in big data (BDC103-00) <br>
 - **Sep - Dec. 2021** RA for NLP for digital finance engineering (DFE601-00) <br>
 - **Mar - Jun. 2021** TA for Introduction to information retrieval in big data (BDC103-00) <br>
 
-<span style='background-color:#fff5b1'><b><span style='color:black'>NongHyup Bank Co., Ltd</span></b></span>
+<span style='background-color:#fff5b1'><b><span style='color:black'>Short-term Training</span></b></span>
+- <b><span style='color:red'>NongHyup Bank Co., Ltd</span></b>
 - **Jul - Sep. 2020** Teaching data science for new employees
 
 <span style='background-color:#fff5b1'><b><span style='color:black'>DataDiving</span></b></span>
