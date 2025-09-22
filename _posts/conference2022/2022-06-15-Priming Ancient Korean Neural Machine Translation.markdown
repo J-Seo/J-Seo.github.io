@@ -3,7 +3,6 @@ layout: post
 title: "Priming Ancient Korean Neural Machine Translation"
 date: 2022-06-15
 Journal: LREC 2022
-categories: outstanding
 image: "https://raw.githubusercontent.com/J-Seo/J-Seo.github.io/main/assets/img/lrec2022.png"
 authors: Chanjun Park, Seolhwa Lee, Jaehyung Seo, Hyeonseok Moon, Sugyeong Eo, Heuiseok Lim*
 ---
