@@ -4,7 +4,6 @@ title: "Detecting Critical Errors Considering Cross-Cultural Factors in English-
 date: 2024-05-20
 Journal: LREC-COLING 2024
 image: "https://raw.githubusercontent.com/J-Seo/J-Seo.github.io/main/assets/img/lrec_coling2024.png"
-categories: outstanding
 authors: Sugyeong Eo, Jungwoo Lim, Chanjun Park, Hyeonseok Moon, Jaehyung Seo, Heuiseok Lim*
 ---
 **Authors**
