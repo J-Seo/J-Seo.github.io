@@ -5,10 +5,10 @@ date: 2024-07-31
 Journal: ACL 2024 - Findings
 categories: outstanding
 image: "https://raw.githubusercontent.com/J-Seo/J-Seo.github.io/main/assets/img/acl2024.png"
-authors: Jungseob Lee, Hyeonseok Moon, Seungjun Lee Chanjun Park†, Sugyeong Eo, Hyunwoong Ko, Jaehyung Seo, Seungyoon Lee, Heuiseok Lim†
+authors: Jungseob Lee, Hyeonseok Moon, Seungjun Lee Chanjun Park†, Sugyeong Eo, Hyunwoong Ko, Jaehyung Seo, Seungyoon Lee, Heuiseok Lim*
 ---
 **Authors**
-- Jungseob Lee, Hyeonseok Moon, Seungjun Lee Chanjun Park, Sugyeong Eo, Hyunwoong Ko, **Jaehyung Seo**, Seungyoon Lee, Heuiseok Lim
+- Jungseob Lee, Hyeonseok Moon, Seungjun Lee Chanjun Park, Sugyeong Eo, Hyunwoong Ko, **Jaehyung Seo**, Seungyoon Lee, Heuiseok Lim<sup>*</sup>
 
 **Abstract**
 Byte Pair Encoding is an effective approach in machine translation across several languages. 
