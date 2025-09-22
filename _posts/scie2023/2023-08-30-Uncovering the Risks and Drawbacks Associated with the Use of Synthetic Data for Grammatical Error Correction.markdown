@@ -6,7 +6,7 @@ Journal: IEEE-ACCESS 2023
 ---
 
 **Authors**
-- Seonmin Koo, Chanjun Park, Seolhwa Lee, **Jaehyung Seo**, Sugyeong Eo, Hyeonseok Moon, Heuiseok Lim
+- Seonmin Koo, Chanjun Park, Seolhwa Lee, **Jaehyung Seo**, Sugyeong Eo, Hyeonseok Moon, Heuiseok Lim<sup>*</sup>
 
 **Abstract**
 
