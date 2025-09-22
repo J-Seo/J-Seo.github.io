@@ -6,7 +6,7 @@ Journal: Mathematics 2023
 ---
 
 **Authors**
-- Seungjun Lee, Jungseob Lee, Hyeonseok Moon, Chanjun Park, **Jaehyung Seo**, Sugyeong Eo, Seonmin Koo, Heuiseok Lim
+- Seungjun Lee, Jungseob Lee, Hyeonseok Moon, Chanjun Park, **Jaehyung Seo**, Sugyeong Eo, Seonmin Koo, Heuiseok Lim<sup>*</sup>
 
 **Abstract**
 
