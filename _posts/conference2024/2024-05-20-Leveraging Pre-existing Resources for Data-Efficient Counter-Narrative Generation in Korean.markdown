@@ -5,11 +5,11 @@ date: 2024-05-20
 Journal: LREC-COLING 2024
 image: "https://raw.githubusercontent.com/J-Seo/J-Seo.github.io/main/assets/img/lrec_coling2024.png"
 categories: outstanding
-authors: Seungyoon Lee, Chanjun Park†, DaHyun Jung, Hyeonseok Moon, Jaehyung Seo, Sugyeong Eo, Heuiseok Lim†
+authors: Seungyoon Lee, Chanjun Park*, DaHyun Jung, Hyeonseok Moon, Jaehyung Seo, Sugyeong Eo, Heuiseok Lim*
 ---
 
 **Authors**
-- Seungyoon Lee, Chanjun Park, DaHyun Jung, Hyeonseok Moon, **Jaehyung Seo**, Sugyeong Eo and Heuiseok Lim
+- Seungyoon Lee, Chanjun Park<sup>*</sup>, DaHyun Jung, Hyeonseok Moon, **Jaehyung Seo**, Sugyeong Eo and Heuiseok Lim<sup>*</sup>
 
 **Abstract**
 Counter-narrative generation, i.e., the generation of fact-based responses to hate speech with the aim of correcting
