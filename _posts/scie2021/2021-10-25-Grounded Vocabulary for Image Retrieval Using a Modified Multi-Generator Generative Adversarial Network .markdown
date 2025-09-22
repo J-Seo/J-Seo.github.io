@@ -9,7 +9,7 @@ Journal: IEEE Access
 
 **Authors**
 
-- Kuekyeng Kim, Chanjun Park, **Jaehyung Seo**, Heuiseok Lim
+- Kuekyeng Kim, Chanjun Park, **Jaehyung Seo**, Heuiseok Lim*
 
 **Abstract**
 
