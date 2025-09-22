@@ -3,13 +3,13 @@ layout: post
 title: "Study on Decoding Strategies in Neural Machine Translation (KCS 2021)"
 date: 2021-11-28
 Journal: Korea Convergence Society (한국융합학회)
-authors: Jaehyung Seo, Chanjun Park, Sugyeong Eo, Hyeonseok Moon, Heuiseok Lim†
+authors: Jaehyung Seo, Chanjun Park, Sugyeong Eo, Hyeonseok Moon, Heuiseok Lim*
 star: 🌟
 ---
 
 **Authors**
 
-- **Jaehyung Seo**, Chanjun Park, Sugyeong Eo, Hyeonseok Moon, Heuiseok Lim
+- **Jaehyung Seo**, Chanjun Park, Sugyeong Eo, Hyeonseok Moon, Heuiseok Lim<sup>*</sup>
 
 **Abstract**
 
