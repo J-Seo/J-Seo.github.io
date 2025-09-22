@@ -3,7 +3,6 @@ layout: post
 title: "Empirical Analysis of Noising Scheme based Synthetic Data Generation for Automatic Post-editing"
 date: 2022-06-15
 Journal: LREC 2022
-categories: outstanding
 authors: Hyeonseok Moon, Chanjun Park, Seolhwa Lee, Jaehyung Seo, Jungseob Lee, Sugyeong Eo, Heuiseok Lim*
 image: "https://raw.githubusercontent.com/J-Seo/J-Seo.github.io/main/assets/img/lrec2022.png"
 ---
