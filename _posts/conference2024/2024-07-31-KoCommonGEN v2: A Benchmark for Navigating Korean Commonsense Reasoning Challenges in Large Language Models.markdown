@@ -5,11 +5,11 @@ date: 2024-07-31
 Journal: ACL 2024 - Findings
 categories: outstanding
 image: "https://raw.githubusercontent.com/J-Seo/J-Seo.github.io/main/assets/img/acl2024.png"
-authors: Jaehyung Seo, Jaewook Lee, Chanjun Park, SeongTae Hong, Seungjun Lee, Heuiseok Lim†
+authors: Jaehyung Seo, Jaewook Lee, Chanjun Park, SeongTae Hong, Seungjun Lee, Heuiseok Lim*
 star: 🌟
 ---
 **Authors**
-- **Jaehyung Seo**, Jaewook Lee, Chanjun Park, SeongTae Hong, Seungjun Lee, Heuiseok Lim
+- **Jaehyung Seo**, Jaewook Lee, Chanjun Park, SeongTae Hong, Seungjun Lee, Heuiseok Lim<sup>*</sup>
 
 **Abstract**
 The evolution of large language models (LLMs) has culminated in a multitask model paradigm where prompts drive the generation of user-specific outputs. 
