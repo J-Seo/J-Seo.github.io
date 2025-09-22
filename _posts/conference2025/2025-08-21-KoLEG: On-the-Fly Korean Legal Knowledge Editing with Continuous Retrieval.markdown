@@ -4,12 +4,12 @@ title: "KoLEG: On-the-Fly Korean Legal Knowledge Editing with Continuous Retriev
 date: 2025-08-21
 image: "https://raw.githubusercontent.com/J-Seo/J-Seo.github.io/main/assets/img/emnlp2025.png"
 Journal: EMNLP 2025 - findings
-authors: Jaehyung Seo, Dahyun Jung, Jaewook Lee, Yongchan Chun, Dongjun Kim, Hwijung Ryu, Donghoon Shin, Heuiseok Lim†
+authors: Jaehyung Seo, Dahyun Jung, Jaewook Lee, Yongchan Chun, Dongjun Kim, Hwijung Ryu, Donghoon Shin, Heuiseok Lim\textsuperscript{*}
 categories: outstanding
 star: 🌟
 ---
 **Authors**
-- **Jaehyung Seo**, Dahyun Jung, Jaewook Lee, Yongchan Chun, Dongjun Kim, Hwijung Ryu, Donghoon Shin, Heuiseok Lim†
+- **Jaehyung Seo**, Dahyun Jung, Jaewook Lee, Yongchan Chun, Dongjun Kim, Hwijung Ryu, Donghoon Shin, Heuiseok Lim\textsuperscript{*}
 
 **Abstract**
 
