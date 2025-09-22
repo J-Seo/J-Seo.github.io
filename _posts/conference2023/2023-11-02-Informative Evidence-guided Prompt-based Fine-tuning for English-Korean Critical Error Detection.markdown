@@ -3,7 +3,6 @@ layout: post
 title: "Informative Evidence-guided Prompt-based Fine-tuning for English-Korean Critical Error Detection"
 date: 2023-11-02
 Journal: IJCNLP-AACL 2023
-categories: outstanding
 image: "https://raw.githubusercontent.com/J-Seo/J-Seo.github.io/main/assets/img/ijcnlp2023.png"
 authors: Dahyun Jung, Sugyeong Eo, Chanjun Park, Hyeonseok Moon, Jaehyung Seo, Heuiseok Lim*
 ---
