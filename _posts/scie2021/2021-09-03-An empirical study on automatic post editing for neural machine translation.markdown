@@ -8,7 +8,7 @@ Journal: IEEE Access
 - Impact Factor 2021: 3.47
 
 **Authors**
-- Hyeonseok Moon, Chanjun Park, Sugyeong Eo, **Jaehyung Seo**, Heuiseok Lim
+- Hyeonseok Moon, Chanjun Park, Sugyeong Eo, **Jaehyung Seo**, Heuiseok Lim*
 
 
 **Abstract**
