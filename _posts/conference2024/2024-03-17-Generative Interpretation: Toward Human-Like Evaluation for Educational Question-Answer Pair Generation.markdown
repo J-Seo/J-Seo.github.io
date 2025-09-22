@@ -4,7 +4,6 @@ title: "Generative Interpretation: Toward Human-Like Evaluation for Educational 
 date: 2024-03-17
 Journal: EACL 2024 - Findings
 image: "https://raw.githubusercontent.com/J-Seo/J-Seo.github.io/main/assets/img/eacl2024.png"
-categories: outstanding
 authors: Hyeonseok Moon, Jaewook Lee, Sugyeong Eo, Chanjun Park*, Jaehyung Seo, Heuiseok Lim*
 ---
 **Authors**
