@@ -9,7 +9,7 @@ Journal: IEEE Access
 
 **Authors**
 
-- Hyeonseok Moon, Chanjun Park, **Jaehyung Seo**, Sugyeong Eo, Heuiseok Lim
+- Hyeonseok Moon, Chanjun Park, **Jaehyung Seo**, Sugyeong Eo, Heuiseok Lim*
 
 **Abstract**
 
