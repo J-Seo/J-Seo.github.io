@@ -2,15 +2,15 @@
 layout: post
 title: "Comparative analysis of current approaches to quality estimation for neural machine translation (Applied Sciences 2021)"
 date: 2021-07-17
-Journal: MDPI Applied Sciences
+Journal: Applied Sciences
 ---
-**MDPI Applied Sciences** 
+**Applied Sciences** 
 
 - Impact Factor 2021: 2.92
 
 **Authors**
 
-- Sugyeong Eo, Chanjun Park, Hyeonseok Moon, **Jaehyung Seo**, Heuiseok Lim
+- Sugyeong Eo, Chanjun Park, Hyeonseok Moon, **Jaehyung Seo**, Heuiseok Lim*
 
 **Abstract**
 
