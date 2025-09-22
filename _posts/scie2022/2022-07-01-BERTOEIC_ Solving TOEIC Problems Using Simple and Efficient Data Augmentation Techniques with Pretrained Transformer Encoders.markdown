@@ -2,9 +2,9 @@
 layout: post
 title: "BERTOEIC: Solving TOEIC Problems Using Simple and Efficient Data Augmentation Techniques with Pretrained Transformer Encoders (Applied Sciences 2022)"
 date: 2022-07-01
-Journal: MDPI Applied Sciences
+Journal: Applied Sciences
 ---
-**MDPI Applied Sciences** 
+**Applied Sciences** 
 
 - Impact Factor 2022: 2.92
 
