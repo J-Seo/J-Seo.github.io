@@ -4,12 +4,12 @@ title: "The Impact of Negated Text on Hallucination with Large Language Models"
 date: 2025-08-21
 image: "https://raw.githubusercontent.com/J-Seo/J-Seo.github.io/main/assets/img/emnlp2025.png"
 Journal: EMNLP 2025
-authors: Jaehyung Seo, Hyeonseok Moon, Heuiseok Lim†
+authors: Jaehyung Seo, Hyeonseok Moon, Heuiseok Lim*
 categories: outstanding
 star: 🌟
 ---
 **Authors**
-- **Jaehyung Seo**, Hyeonseok Moon, Heuiseok Lim†
+- **Jaehyung Seo**, Hyeonseok Moon, Heuiseok Lim<sup>*</sup>
 
 **Abstract**
 
