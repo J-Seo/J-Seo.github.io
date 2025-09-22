@@ -3,7 +3,6 @@ layout: post
 title: "Length-aware Byte Pair Encoding for Mitigating Over-segmentation in Korean Machine Translation"
 date: 2024-07-31
 Journal: ACL 2024 - Findings
-categories: outstanding
 image: "https://raw.githubusercontent.com/J-Seo/J-Seo.github.io/main/assets/img/acl2024.png"
 authors: Jungseob Lee, Hyeonseok Moon, Seungjun Lee Chanjun Park†, Sugyeong Eo, Hyunwoong Ko, Jaehyung Seo, Seungyoon Lee, Heuiseok Lim*
 ---
