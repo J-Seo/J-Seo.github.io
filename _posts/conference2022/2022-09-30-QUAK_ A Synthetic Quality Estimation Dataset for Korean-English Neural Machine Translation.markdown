@@ -3,7 +3,6 @@ layout: post
 title: "QUAK: A Synthetic Quality Estimation Dataset for Korean-English Neural Machine Translation"
 date: 2022-09-30
 Journal: COLING 2022
-categories: outstanding
 image: "https://raw.githubusercontent.com/J-Seo/J-Seo.github.io/main/assets/img/coling2022.png"
 authors: Sugyeong Eo, Chanjun Park, Hyeonseok Moon, Jaehyung Seo, Gyeongmin Kim, Jungseob Lee, Heuiseok Lim*
 ---
