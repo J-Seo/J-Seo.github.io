@@ -5,10 +5,10 @@ date: 2024-05-20
 Journal: LREC-COLING 2024
 image: "https://raw.githubusercontent.com/J-Seo/J-Seo.github.io/main/assets/img/lrec_coling2024.png"
 categories: outstanding
-authors: Sugyeong Eo, Jungwoo Lim, Chanjun Park, Hyeonseok Moon, Jaehyung Seo, Heuiseok Lim
+authors: Sugyeong Eo, Jungwoo Lim, Chanjun Park, Hyeonseok Moon, Jaehyung Seo, Heuiseok Lim*
 ---
 **Authors**
-- Sugyeong Eo, Jungwoo Lim, Chanjun Park, Hyeonseok Moon, **Jaehyung Seo**, Heuiseok Lim
+- Sugyeong Eo, Jungwoo Lim, Chanjun Park, Hyeonseok Moon, **Jaehyung Seo**, Heuiseok Lim<sup>*</sup>
 
 **Abstract**
 Recent machine translation (MT) systems have overcome language barriers for a wide range of users, yet they still
