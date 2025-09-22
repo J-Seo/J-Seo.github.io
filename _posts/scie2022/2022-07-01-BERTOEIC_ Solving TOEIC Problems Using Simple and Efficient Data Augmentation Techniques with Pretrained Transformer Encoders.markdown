@@ -10,7 +10,7 @@ Journal: MDPI Applied Sciences
 
 **Authors**
 
-- Jeongwoo Lee, Hyeonseok Moon, Chanjun Park, **Jaehyung Seo**, Sugyeong Eo, Heuiseok Lim
+- Jeongwoo Lee, Hyeonseok Moon, Chanjun Park, **Jaehyung Seo**, Sugyeong Eo, Heuiseok Lim*
 
 **Abstract**
 
