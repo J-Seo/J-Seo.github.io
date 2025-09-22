@@ -4,11 +4,11 @@ title: "LimaCost: Data Valuation for Instruction Tuning of Large Language Models
 date: 2025-08-20
 image: "https://raw.githubusercontent.com/J-Seo/J-Seo.github.io/main/assets/img/emnlp2025.png"
 Journal: EMNLP 2025 - findings
-authors: Hyeonseok Moon, Jaehyung Seo, Seonmin Koo, Jinsung Kim, Youngkyoung Ham, Jiwon Moon, Heuiseok Lim†
+authors: Hyeonseok Moon, Jaehyung Seo, Seonmin Koo, Jinsung Kim, Youngkyoung Ham, Jiwon Moon, Heuiseok Lim*
 categories: outstanding
 ---
 **Authors**
-- Hyeonseok Moon, **Jaehyung Seo**, Seonmin Koo, Jinsung Kim, Young-kyoung Ham, jiwon moon, Heuiseok Lim
+- Hyeonseok Moon, **Jaehyung Seo**, Seonmin Koo, Jinsung Kim, Young-kyoung Ham, jiwon moon, Heuiseok Lim<sup>*</sup>
 
 **Abstract**
 
