@@ -2,15 +2,15 @@
 layout: post
 title: "Empirical Analysis of Parallel Corpora and In-Depth Analysis Using LIWC (Applied Sciences 2022)"
 date: 2022-05-30
-Journal: MDPI Applied Sciences
+Journal: Applied Sciences
 ---
-**MDPI Applied Sciences** 
+**Applied Sciences** 
 
 - Impact Factor 2022: 2.92
 
 **Authors**
 
-- Chanjun Park, Midan Shim, Sugyeong Eo, Seolhwa Lee, **Jaehyung Seo**, Hyeonseok Moon, Heuiseok Lim
+- Chanjun Park, Midan Shim, Sugyeong Eo, Seolhwa Lee, **Jaehyung Seo**, Hyeonseok Moon, Heuiseok Lim*
 
 **Abstract**
 
