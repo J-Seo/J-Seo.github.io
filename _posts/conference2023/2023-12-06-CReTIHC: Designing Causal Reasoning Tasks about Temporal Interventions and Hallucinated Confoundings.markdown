@@ -4,7 +4,6 @@ title: "CReTIHC: Designing Causal Reasoning Tasks about Temporal Interventions a
 date: 2023-12-06
 Journal: EMNLP 2023 - Findings
 image: "https://raw.githubusercontent.com/J-Seo/J-Seo.github.io/main/assets/img/emnlp2023.png"
-categories: outstanding
 authors: Changwoo Chun, SongEun Lee, Jaehyung Seo, Heuiseok Lim*
 ---
 **Authors**
