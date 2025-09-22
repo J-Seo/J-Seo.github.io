@@ -9,7 +9,7 @@ Journal: Mathematics
 
 **Authors**
 
-- Chanjun Park, **Jaehyung Seo**, Seolhwa Lee, Chanhee Lee, Heuiseok Lim
+- Chanjun Park, **Jaehyung Seo**, Seolhwa Lee, Chanhee Lee, Heuiseok Lim*
 
 
 **Abstract**
