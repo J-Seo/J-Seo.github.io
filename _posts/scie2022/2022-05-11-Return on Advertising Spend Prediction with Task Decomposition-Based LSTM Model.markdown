@@ -2,15 +2,15 @@
 layout: post
 title: "Return on Advertising Spend Prediction with Task Decomposition-Based LSTM Model (Mathematics 2022)"
 date: 2022-05-11
-Journal: MDPI Mathematics
+Journal: Mathematics
 ---
-**MDPI Mathematics** 
+**Mathematics** 
 
 - Impact Factor 2022: 2.88
 
 **Authors**
 
-- Hyeonseok Moon, Taemin Lee, **Jaehyung Seo**, Chanjun Park, Sugyeong Eo, Imatitikua D Aiyanyo, Jeongbae Park, Aram So, Kyoungwha Ok, Kinam Park
+- Hyeonseok Moon, Taemin Lee, **Jaehyung Seo**, Chanjun Park, Sugyeong Eo, Imatitikua D Aiyanyo, Jeongbae Park, Aram So, Kyoungwha Ok, Kinam Park<sup>*</sup>
 
 **Abstract**
 
