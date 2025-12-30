@@ -1,9 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=About Me&fontSize=90" />
 
-### Research Interest 😆
-
-<span style='background-color:#ffdce0'><b><span style='color:black'>Natural Language Processing, Commonsense Reasoning, Knowledge Editing, Hallucination, Language Resource & Evaluation</span></b></span>
-
 ### Education 🎓
 **2025 Ph.D** in **Computer Science at Korea University (Seoul)**, South Korea <br>
 **2020 B.A.** in **Business School at Korea University (Seoul)**, South Korea <br> 
