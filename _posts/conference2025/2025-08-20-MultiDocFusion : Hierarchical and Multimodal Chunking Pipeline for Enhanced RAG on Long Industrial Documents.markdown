@@ -17,5 +17,5 @@ Retrieval-augmented generation (RAG)-based question answering (QA) has emerged a
 
 Check out the [This Link][DOI] for more info on our paper
 
-[DOI]: TBD
+[DOI]: https://aclanthology.org/2025.emnlp-main.1062/
 

@@ -17,5 +17,5 @@ Recent studies on hallucination in large language models (LLMs) have been active
 
 Check out the [This Link][DOI] for more info on our paper
 
-[DOI]: https://openreview.net/forum?id=VnLhUogHYE
+[DOI]: https://aclanthology.org/2025.emnlp-main.684/
 

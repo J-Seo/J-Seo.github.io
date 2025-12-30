@@ -17,5 +17,5 @@ Korean legal knowledge is subject to frequent temporal updates driven by societa
 
 Check out the [This Link][DOI] for more info on our paper
 
-[DOI]: TBD
+[DOI]: https://aclanthology.org/2025.findings-emnlp.489/
 
