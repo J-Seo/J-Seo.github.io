@@ -1,8 +1,11 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=About Me&fontSize=90" />
 
+### Work Experience 💼
+**2026 - Present** Assistant Professor, **Department of Computer Science and Engineering, Konkuk University**, South Korea <br>
+
 ### Education 🎓
 **2025 Ph.D** in **Computer Science at Korea University (Seoul)**, South Korea <br>
-**2020 B.A.** in **Business School at Korea University (Seoul)**, South Korea <br> 
+**2020 B.A.** in **Business School at Korea University (Seoul)**, South Korea <br>
 **2020 B.A.** in **English Language and Literature at Korea University (Seoul)**, South Korea <br>
 
 ### Honors & Awards 🏆
