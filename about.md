@@ -10,6 +10,15 @@
 
 ### Honors & Awards 🏆
 
+<span style='background-color:#F7DDBE'><b><span style='color:black'>Best Paper Award Nomination (Top 1%) at ACL 2026</span></b></span>
+- **Jul. 2026** Best Paper Award Nomination (top 1%) with two Oral presentations (top 5%), ACL 2026
+
+<span style='background-color:#F7DDBE'><b><span style='color:black'>Highlight Paper (Top 3.7%) at CVPR 2026</span></b></span>
+- **Jun. 2026** Highlight Paper (top 3.7%), CVPR 2026
+
+<span style='background-color:#F7DDBE'><b><span style='color:black'>Best Paper 2025</span></b></span>
+- The 37th Annual Conference on Human & Cognitive Language Technology (HCLT2025)
+
 <span style='background-color:#F7DDBE'><b><span style='color:black'>Top 5 K-AI Team</span></b></span>
 - Appointed to the National Representative AI Research Team (*NC AI consortium*)
 
@@ -37,11 +46,24 @@
 
 ### Invited Talk & Teaching Experience 🐯
 
-<span style='background-color:#fff5b1'><b><span style='color:black'>Invitied Speaker</span></b></span>
+<span style='background-color:#fff5b1'><b><span style='color:black'>Lecturer</span></b></span>
+- <b><span style='color:red'>Konkuk University</span></b>
+- **Mar - Jun. 2026** Algorithms (English) - CSE3178 <br>
+- **Mar - Jun. 2026** Object-oriented Programming (English) - CSE3168 <br>
+
+<span style='background-color:#fff5b1'><b><span style='color:black'>Invited Speaker</span></b></span>
+- <b><span style='color:red'>NLLP Workshop @ EMNLP 2025</span></b>
+- **Nov. 2025** Invited Talk at the Natural Legal Language Processing (NLLP) Workshop <br>
+
+<span style='background-color:#fff5b1'><b><span style='color:black'>Invited Speaker</span></b></span>
+- <b><span style='color:red'>MSIT & IITP</span></b>
+- **2025** AI Frontier International Conference (VIP Session) <br>
+
+<span style='background-color:#fff5b1'><b><span style='color:black'>Invited Speaker</span></b></span>
 - <b><span style='color:red'>DGIST</span></b>
 - **Apr. 2025** Commonsense Reasoning or Hallucination? Unpacking the Plausible Errors of Language Models <br>
 
-<span style='background-color:#fff5b1'><b><span style='color:black'>Invitied Speaker</span></b></span>
+<span style='background-color:#fff5b1'><b><span style='color:black'>Invited Speaker</span></b></span>
 - <b><span style='color:red'>Dongguk University</span></b>
 - **Jun. 2023** Introduction to Natural Language Processing and Commonsense Reasoning <br>
 
@@ -63,7 +85,13 @@
 
 ### Academic Services 😺
 
+<span style='background-color:#c0c8ff'><b><span style='color:black'>Session Chair</span></b></span>
+- **ACL 2026** Oral Session: Hierarchical Structure, Syntax, and Parsing
+
 <span style='background-color:#c0c8ff'><b><span style='color:black'>Reviewer</span></b></span>
+- **ICLR 2026**
+- **AAAI 2026**
+- **CVPR 2026**
 - **AAAI 2025**
 - **EMNLP 2025**
 - **ICLR 2025**
@@ -74,8 +102,22 @@
 - **NAACL 2024**
 - **EMNLP 2023**
 - **ACL 2023**
+- **COLING 2022**
 
 ### Selected Projects 🌌
+
+<span style='background-color:#d2b8ff'><b><span style='color:black'>Korean Knowledge-Grounded System for Personalized Korean Language Counseling</span></b></span>
+<div style="text-align: right"><span style='color:#808080'>2026 -- 2028</span></div>
+- **Principal Investigator at Konkuk University (ELION Lab)**
+- Supported by <b><span style='color:red'>KOCCA</span></b> (Korea Creative Content Agency)
+- Secured research funding of <b>4.1B KRW</b> (≈ \$3M) over 3 years
+- Developing a Korean knowledge-linked system for a personalized comprehensive Korean-language counseling service
+
+<span style='background-color:#d2b8ff'><b><span style='color:black'>KETI AI Research Computing Support Program</span></b></span>
+<div style="text-align: right"><span style='color:#808080'>Jul 2026 --</span></div>
+- **Principal Investigator at Konkuk University (ELION Lab)**
+- Selected for the AI research computing support program by <b><span style='color:red'>KETI</span></b>
+- Awarded dedicated GPU computing resources (<b>NVIDIA H100 × 8</b>) for LLM research
 
 <span style='background-color:#d2b8ff'><b><span style='color:black'>National Representative AI — World Best LLM</span></b></span>
 <div style="text-align: right"><span style='color:#808080'>Aug 2025 -- Dec 2025</span></div>

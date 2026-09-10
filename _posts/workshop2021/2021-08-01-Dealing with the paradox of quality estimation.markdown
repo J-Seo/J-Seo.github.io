@@ -12,5 +12,5 @@ In quality estimation (QE), the quality of translation can be predicted by refer
 
 Check out the [This Link][DOI] for more info on our paper
 
-[DOI]: https://aclanthology.org/2021.mtsummit-LoResMT.1/
+[DOI]: https://aclanthology.org/2021.mtsummit-loresmt.1/
 

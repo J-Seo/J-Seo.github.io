@@ -14,4 +14,7 @@ star: 🌟
 **Abstract**
 In large-scale industrial documents with scanned images, complex layouts, and multiple pages, the effectiveness of retrieval-augmented generation (RAG) is highly dependent on chunking quality. However, existing text-centric chunkers overlook the visual and structural cues present in real-world documents, leading to redundant or ambiguous chunks that impair retrieval and answer accuracy. To address this problem, we propose M3DocDep which integrates (i) SharedDet for normalizing document parsing and OCR outputs into a document-level frame, (ii) Multi-modal block embeddings with boundary-aware SoftROI, (iii) global document-tree reconstruction via biaffine scoring, and (iv) structure-aware dependency chunking that preserves boundaries and reduces redundancy. M3DocDep achieves consistent gains across both Document Hierarchical Parsing (DHP) and corpus-level RAG evaluations, improving STEDS by +28.5--39.6%, retrieval nDCG by +1.1--15.3%, and QA ANLS by +4.5--15.3%. These results demonstrate that modeling document-level dependencies with Multi-modal, structure-aware chunking improves RAG performance on long, multi-page industrial documents.
 
-Paper link: TBD
+Check out the [This Link][DOI] for more info on our paper
+
+[DOI]: https://openaccess.thecvf.com/content/CVPR2026/papers/Shin_M3DocDep_Multi-modal_Multi-page_Multi-document_Dependency_Chunking_with_Large_Vision-Language_Models_CVPR_2026_paper.pdf
+
