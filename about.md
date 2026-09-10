@@ -106,6 +106,12 @@
 
 ### Selected Projects 🌌
 
+<span style='background-color:#d2b8ff'><b><span style='color:black'>AI Star Fellowship — 최고급신진연구자 지원사업</span></b></span>
+<div style="text-align: right"><span style='color:#808080'>Jul 2026 -- 2032</span></div>
+- **Project 1 Leader at Konkuk University (with Jeju National University (lead), NC AI, AIVIS, and Metsakuur)**
+- Supported by <b><span style='color:red'>IITP</span></b>
+- Secured research funding of <b>11.0B KRW</b> in total over 6 years (Konkuk University: <b>5.0B KRW</b>)
+
 <span style='background-color:#d2b8ff'><b><span style='color:black'>Korean Knowledge-Grounded System for Personalized Korean Language Counseling</span></b></span>
 <div style="text-align: right"><span style='color:#808080'>2026 -- 2028</span></div>
 - **Principal Investigator at Konkuk University (ELION Lab)**
